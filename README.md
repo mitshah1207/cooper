@@ -29,7 +29,7 @@ Tends to find the outdoors more exciting than treats and will accept elutantly/a
 ## Toilet
 - Usually goes twice per day and can last 10-12 hours comfortably without problem. Well toilet trained.
 - Poos twice often during a walk (morning) and maybe once at night.
-- No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated).
+- No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated). **Take off when going outside!**
 
 ## Play
 - Will chase a ball endlessly if chucked. We would always try and get a command out of him before throwing ("touch", "middle", "ball"). We limit it to 5 mins at a time, and state 'all done' wiping our hands together to signal the game is over. Often say 'all done, game over' whilst doing the motion.
