@@ -8,19 +8,19 @@
 - Wake up ~7-8am
 - Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency.
 - Then he takes his first meal of the day ~11-12am
-- Dinner 6pm-ish
+- Dinner 6-7pm
 - Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
-- Sleeps at ~11pm in variable locations (!)
+- Sleeps at ~11pm in variable locations, mostly in the same room with you. Doesn't sleep on the bed, might jump on it in the morning to greet you.
 
 ## Feeding
 **Main meals:**
-- Twice per day (8am and 6pm), "Essential Foods", 100g each time.
-- OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five).
-- OPTION 2: feed meal through Kong wobbler, very commonly use at home. 
+- Twice per day (after morning walk and 6-7pm), Purina, 150g each time.
+- OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
+- OPTION 2: feed meal through Kong wobbler, normally the morning meal after the walk. 
 - OPTION 3: give it for 'free' in a slow feeder bowl. 
 
 **Treats**:
-Tends to find the outdoors more exciting than treats. We haven't yet tried to incorporate this in outdoors training. 
+Tends to find the outdoors more exciting than treats and will accept elutantly/absently. Can be used at home for training, especially "ongoing" things like settle 
 
 **Long lasting chews** 
 - He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
@@ -29,11 +29,11 @@ Tends to find the outdoors more exciting than treats. We haven't yet tried to in
 ## Toilet
 - Usually goes twice per day and can last 10-12 hours comfortably without problem. Well toilet trained.
 - Poos twice often during a walk (morning) and maybe once at night.
-- No accidents at home however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated).
+- No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated).
 
 ## Play
-- Will chase a ball endlessly if chucked. We would always try and get a command out of him before throwing. We limit it to 5 mins at a time, and state 'all done' wiping our hands together to signal the game is over. Often say 'all done, game over' whilst doing the motion.
-- Does not actually like to tug 
+- Will chase a ball endlessly if chucked. We would always try and get a command out of him before throwing ("touch", "middle", "ball"). We limit it to 5 mins at a time, and state 'all done' wiping our hands together to signal the game is over. Often say 'all done, game over' whilst doing the motion.
+- Does not know how to tug 
 
 ## Sleep 
 N.B. Important that the doors are not shut in the room he is in.
@@ -45,9 +45,10 @@ No obvious challenges encountered. Incessant want to play is perhaps the biggest
 Wants to chase or herd cars when outside. We are trying to overcome this by the following:
 - Walking him when there's low traffic and on streets with low volume traffic only
 - Starting to say 'leave it' firmly if he is fixating on a car
+- Sometimes it helps to stop and wait for the traffic to pass. He can be gven treats at the same time for leaving it.
 
 Pulling on lead
-- If pulls we do an instant 180 degrees, walk a variable distance back and then do another 180 back to where we were going. He's slowly learning but work in progress. In future we will try teaching a heel or using a halti. 
+- If pulls we do an instant 180 degrees, walk a variable distance back and then do another 180 back to where we were going. He's slowly learning but work in progress. In future we will try teaching a heel or using a halti. Will pull a lot with traffic and when he thinks he's about to play (e.g., entering the park)
 
 ## Guide to the outdoors
 **Walking on residential roads**
@@ -63,18 +64,18 @@ Pulling on lead
 
 Playing style:
 - His fetch is nearly 100% perfect and he will tend to come back half the distance and drop it. 
-- We nearly always get him to do 'touch' (holding our palm out at thigh level) and he will run to touch the palm which is excellent behaviour and will accordingly by rewarded by you throwing the ball! Another command he's happy to follow is 'middle' (stand with legs somewhat apart so he can return and come through the middle of your legs - watch your legs as he'll have the yellow lead on).
-- He can play in the park forever but we limit this to 1 hour at a max. He needs water in a bowl during longer play sessions. 
+- We nearly always get him to do 'touch' (holding our open palm out at thigh level) and he will run to touch the palm which is excellent behaviour and will accordingly by rewarded by you throwing the ball! Another command he's happy to follow is 'middle' (stand with legs somewhat apart so he can return and come through the middle of your legs - watch your legs as he'll have the yellow lead on). Another option is 'ball', holding out the launcher with the ball, he touches the ball.
+- He can play in the park forever but we limit this to 1 hour at a max. He needs water in a bowl during longer play sessions. We try to mix up play time with exploring/sniffing, but it's better to start and end with play time to get him more tired out.
 
 ## Negative commands:
 Note: we generally use [positive reinforcement](https://www.humanesociety.org/resources/positive-reinforcement-training) approaches. We would try our very best not to resort to using the following negative commands, as much as possible, especially with this sensitive dog.
 - A gentle 'no' to discourage a bad behaviour - **"uh-uh"**
 - A firm 'no' if he does something seriously bad - **"NO."** in a sharp and assertive manner.
-- **"Get off"** if somewhere he should not be.
+- **"Get off"** if somewhere he should not be. **"Off"** if he jumps on people and you don't want it or is trying to climb on you while you eat.
     
 ## Banned behaviours:
 Not allowed to...
-- **Steal food.** If food dropped whilst preparing in kitchen, has been trained to look at you and only proceed to eating if you say: 'yes get it, good boy'. 
+- **Steal food.** If food dropped whilst preparing in kitchen, has to look at you and only proceed to eating if you say: 'yes get it, good boy'. 
 
 ## Troubleshooting:
 
@@ -91,18 +92,18 @@ Not allowed to...
 |Stand|Stands from down/sit|"Stand"+lure with your hand from nose back towards your body| 
 |Head down|Down with head on floor|"Head down" pointing index finger to floor| 
 |Look at me|Look at your face|Say "look at me" and point to face| 
-|Left/right paw|Give you his left/right paw|"give me your X paw" + offer your hand| 
-|High five|Not taught|"high five"| 
-|Touch right hand|Touch right hand with nose| "Touch!" + right palm presented. Cooper then touches his nose to palm, then receives treat.|
+|Left/right paw|Give you his left/right paw|"X paw" + offer your hand| 
+|High five|Another paw command|"high five"| 
+|Touch right hand|Touch right hand with nose| "Touch!" + right open palm presented. Cooper then touches his nose to palm, then receives treat. If he's reluctant, turn your back to him/try to walk away with the palm facing him, he'll come|
 |Middle|Get into middle of your legs| "Middle" + left hand index finger from front of left knee round to back of left knee.|
-|Figure|Figure 8| One in the "Middle" position, say "figure" + right hand index finger around right knee, he should up up as started in the middle of legs|
+|Figure|Figure 8| One in the "Middle" position, say "figure" + right hand index finger around right knee, he should up up as started in the middle of legs. Might need guidance|
 |Jump|jump into an item| "Jump" + guide to where you want him to jump onto|
-|Recall command|To come to you from distance| "Cooper come" |
+|Recall command|To come to you from distance| "Cooper, come" |
 |Leave it|Ignore item| "leave it" + "good boy" once left it|
 
 | Trick to teach | Description | Command / hand motion |
 |-------|-------------|-----------------------|
-|Go to X|Goes to a room| In our flat knows: kitchen, study, bathroom, crate|
+|Go to X|Goes to a room| In our flat: kitchen, study, bathroom, crate|
 |Spin clockwise|Spin clockwise| Arm in clockwise motion over his head  + "spin clock"|
 |Spin counter clockwise|Spin counter clockwise| Arm in anticlockwise motion over his head  + "spin clock"|
 |Circle you|Does a full circle of you whilst your stand|Whilst in the heel position, sat by side, say "round" and lure around with finger in a clockwise motion|
