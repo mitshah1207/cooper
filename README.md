@@ -11,7 +11,7 @@
 - Then he takes his first meal of the day ~11-12am - in a bowl
 - Generally sleeps or rests until dinner
 - Dinner ~7pm (either with tricks or hand feed)
-- Between dinner and his evening walk he initially may rest but then ha a second wave of energy and wants to play ~9pm. We would throw the ball from this point for him to retrieve. If we aren't resting we would do this with tricks and reward the trick with the ball throw. Finish play session with 'all done' command, and we are trying to use 'settle' as a phrase to now rest and lie down.  
+- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm. We would throw the ball from this point for him to retrieve. If we aren't resting we would do this with tricks and reward the trick with the ball throw. Finish play session with 'all done' command, and we are trying to use 'settle' as a phrase to now rest and lie down.  
 - Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
 - Sleeps when we do in variable locations, mostly in the same room with us. Doesn't sleep on the bed, might jump on it in the morning to greet you.
 
