@@ -6,11 +6,14 @@
 
 ## Daily routine
 - Wake up ~7-8am
+- Until the walk, he is keen to play with the ball. We would chuck this a number of times before saying the 'all done' command
 - Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency.
-- Then he takes his first meal of the day ~11-12am
-- Dinner 6-7pm
+- Then he takes his first meal of the day ~11-12am - in a bowl
+- Generally sleeps or rests until dinner
+- Dinner ~7pm (either with tricks or hand feed)
+- Between dinner and his evening walk he initially may rest but then ha a second wave of energy and wants to play ~9pm. We would throw the ball from this point for him to retrieve. If we aren't resting we would do this with tricks and reward the trick with the ball throw. Finish play session with 'all done' command, and we are trying to use 'settle' as a phrase to now rest and lie down.  
 - Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
-- Sleeps at ~11pm in variable locations, mostly in the same room with you. Doesn't sleep on the bed, might jump on it in the morning to greet you.
+- Sleeps when we do in variable locations, mostly in the same room with us. Doesn't sleep on the bed, might jump on it in the morning to greet you.
 
 ## Feeding
 **Main meals:**
@@ -20,7 +23,7 @@
 - OPTION 3: give it for 'free' in a slow feeder bowl. 
 
 **Treats**:
-Tends to find the outdoors more exciting than treats and will accept elutantly/absently. Can be used at home for training, especially "ongoing" things like settle 
+Tends to find the outdoors more exciting than treats however working on giving a treat (Salmon pate) when he sees a car and remains calm. Can be used at home for training, especially "ongoing" things like settle 
 
 **Long lasting chews** 
 - He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
@@ -28,7 +31,7 @@ Tends to find the outdoors more exciting than treats and will accept elutantly/a
 
 ## Toilet
 - Usually goes twice per day and can last 10-12 hours comfortably without problem. Well toilet trained.
-- Poos twice often during a walk (morning) and maybe once at night.
+- Poos twice often during a walk (morning) and usually once at night.
 - No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated). **Take off when going outside!**
 
 ## Play
@@ -55,7 +58,7 @@ Pulling on lead
 - Currently we just focus on him not pulling (see above)
 
 **Walking in green areas: much easier!**
-- Use the yellow 5m lead. 
+- Use the yellow 5m lead but is actually quite good off lead and will come back if called "Cooper come!".
 
 **Playing in the park: avoid unless we have given instruction**
 - In the park, we use the green harness, to which we attach the 5 metre lead.  
@@ -96,21 +99,19 @@ Not allowed to...
 |High five|Another paw command|"high five"| 
 |Touch right hand|Touch right hand with nose| "Touch!" + right open palm presented. Cooper then touches his nose to palm, then receives treat. If he's reluctant, turn your back to him/try to walk away with the palm facing him, he'll come|
 |Middle|Get into middle of your legs| "Middle" + left hand index finger from front of left knee round to back of left knee.|
-|Figure|Figure 8| One in the "Middle" position, say "figure" + right hand index finger around right knee, he should up up as started in the middle of legs. Might need guidance|
+|Figure|Figure 8| Once in the "Middle" position, say "figure" + right hand index finger around right knee, he should up up as started in the middle of legs. Might need guidance|
 |Jump|jump into an item| "Jump" + guide to where you want him to jump onto|
 |Recall command|To come to you from distance| "Cooper, come" |
 |Leave it|Ignore item| "leave it" + "good boy" once left it|
+|Round|Makes one round loop of you| Start in heel position next to you on your left. Signal to go round you clockwise and finish in same heel position, say "round"|
 
 | Trick to teach | Description | Command / hand motion |
 |-------|-------------|-----------------------|
 |Go to X|Goes to a room| In our flat: kitchen, study, bathroom, crate|
 |Spin clockwise|Spin clockwise| Arm in clockwise motion over his head  + "spin clock"|
 |Spin counter clockwise|Spin counter clockwise| Arm in anticlockwise motion over his head  + "spin clock"|
-|Circle you|Does a full circle of you whilst your stand|Whilst in the heel position, sat by side, say "round" and lure around with finger in a clockwise motion|
-|Round|Makes one round loop of you| Start in heel position next to you on your left. Signal to go round you clockwise and finish in same heel position, say "round"|
 |Back round|Makes one round loop of you backwards| Start in heel position next to you on your left. Signal to go round you anticlockwise (i.e. his bottom first)and finish in same heel position, say "back round"|
 |Come by|Goes around distant object in a clockwise manner and returns to you| Start in heel position, signal with a swoop and say "come by" round pillar, or object, and he will go round it and come to you.|
-
 
 ## In case of emergency
 - The 24 hr vet is Stone Lion in Wimbledon, and in-hours it is the Godard vet in Putney (020 8788 8224)
