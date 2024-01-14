@@ -41,6 +41,7 @@ Tends to find the outdoors more exciting than treats however working on giving a
 - Does not know how to tug 
 
 ## Sleep 
+- Cooper sleeps on the floor next to our bed. It would be good if he can sleep in the same room as you. He is allowed on the bed but rarely goes on it, and doesn't make use of his own dog bed either! 
 N.B. Important that the doors are not shut in the room he is in.
 
 ## Tricks and skills:
