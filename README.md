@@ -24,7 +24,7 @@
 - OPTION 2: feed meal through Kong wobbler, normally the morning meal after the walk. 
 - OPTION 3: give it for 'free' in a slow feeder bowl.
 - If unwell and bland diet needed: 290kCal from potato (440g boiled unskinned potato)+ 290kCal from chicken (211g boiled chicken) = 580kCal per meal (he doesn't like rice) 
-- See also [troubleshooting](#Troubleshooting)
+- See also [troubleshooting](#troubleshooting)
 
 **Treats**:
 Tends to find the outdoors more exciting than treats however working on giving a treat (Salmon pate) when he sees a car and remains calm. Can be used at home for training, especially "ongoing" things like settle 
