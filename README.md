@@ -23,7 +23,7 @@
 - OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
 - OPTION 2: feed meal through Kong wobbler, normally the morning meal after the walk. 
 - OPTION 3: give it for 'free' in a slow feeder bowl.
-- If unwell and bland diet needed: 290kCal from potato (440g boiled unskinned potato)+ 290kCal from chicken (211g boiled chicken) = 580kCal per meal (he doesn't like rice) 
+- **If unwell**, feed a bland diet: 290kCal from potato (440g boiled unskinned potato)+ 290kCal from chicken (211g boiled chicken) = 580kCal per meal (he doesn't like rice) 
 - See also [troubleshooting](#troubleshooting)
 
 **Treats**:
