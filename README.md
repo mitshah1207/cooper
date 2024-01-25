@@ -22,7 +22,9 @@
 - Twice per day (after morning walk and 6-7pm), Purina, 150g each time.
 - OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
 - OPTION 2: feed meal through Kong wobbler, normally the morning meal after the walk. 
-- OPTION 3: give it for 'free' in a slow feeder bowl. 
+- OPTION 3: give it for 'free' in a slow feeder bowl.
+- If unwell and bland diet needed: 290kCal from potato (440g boiled unskinned potato)+ 290kCal from chicken (211g boiled chicken) = 580kCal per meal (he doesn't like rice) 
+- See also [troubleshooting](#Troubleshooting)
 
 **Treats**:
 Tends to find the outdoors more exciting than treats however working on giving a treat (Salmon pate) when he sees a car and remains calm. Can be used at home for training, especially "ongoing" things like settle 
@@ -128,6 +130,7 @@ Not allowed to...
 | Behaviour                              | Likely cause + likely action to take                         |
 | -------------------------------------- | ------------------------------------------------------------ |
 | Incessant play | 'All done, game over' whilst wiping hands together|
+| Not eating meal | Could be unwell - feed bland diet. Or not hungry/keen, in which case give smaller portions several times, enhance the small portion using small bits of cheese to entice eating, or pour boiling water over the kibble and let cool and offer. |
 
 ## Vet
 - During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224)
