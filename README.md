@@ -130,7 +130,7 @@ Not allowed to...
 | Behaviour                              | Likely cause + likely action to take                         |
 | -------------------------------------- | ------------------------------------------------------------ |
 | Incessant play | 'All done, game over' whilst wiping hands together|
-| Not eating meal | Could be unwell - feed bland diet. Or not hungry/keen, in which case give smaller portions several times, enhance the small portion using small bits of cheese to entice eating, or pour boiling water over the kibble and let cool and offer. |
+| Not eating meal | Could be unwell - feed bland diet. Or not hungry/keen, in which case give smaller portions several times and in particular he is better at eating small amounts for doing tricks (i.e. 'earning' his meal). However he will often in this situation not eat the entire meal through these means. Other options thereafter can include enhancing the small portion using small bits of cheese to entice eating, or pour boiling water over the kibble and let cool and offer. Note, another thing we notice is if he's had half his dinner earlier, he will eat the remaining food overnight if it's left within his reach, so best to have him sleeping with such access. |
 
 ## Vet
 - During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224)
