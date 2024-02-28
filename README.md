@@ -20,6 +20,7 @@ Weekdays:
 - Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems). We would throw the ball from this point for him to retrieve. If we aren't resting we would do this with tricks and reward the trick with the ball throw. Finish play session with 'all done' command, and we are trying to use 'settle' as a phrase to now rest and lie down.  
 - Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
 - Sleeps when we do in variable locations, mostly in the same room with us. Doesn't sleep on the bed, might jump on it in the morning to greet you.
+
 Weekends:
 - We usually don't work on weekends and aim to do a 2-3 hour walk in nature (e.g. Richmond Park, Surrey Hills). This is to somewhat 'make up' for a slightly urban set of weekdays for Cooper. If he gets more time playing in the park than typical throughout the week, we can dial this down.
   
