@@ -7,16 +7,19 @@
 # General Information
 
 ## Daily routine
+Weekdays:
 - Wake up ~7-8am
 - Until the walk, he is keen to play with the ball. We would chuck this a number of times before saying the 'all done' command
-- Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency.
+- Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency. 2x per week we would walk to the park for an approx 45 minute fetch session.
 - Then he takes his first meal of the day ~11-12am - in a bowl
 - Generally sleeps or rests until dinner
 - Dinner ~7pm (either with tricks or hand feed)
 - Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems). We would throw the ball from this point for him to retrieve. If we aren't resting we would do this with tricks and reward the trick with the ball throw. Finish play session with 'all done' command, and we are trying to use 'settle' as a phrase to now rest and lie down.  
 - Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
 - Sleeps when we do in variable locations, mostly in the same room with us. Doesn't sleep on the bed, might jump on it in the morning to greet you.
-
+Weekends:
+- We usually don't work on weekends and aim to do a 2-3 hour walk in nature (e.g. Richmond Park, Surrey Hills). This is to somewhat 'make up' for a slightly urban set of weekdays for Cooper. If he gets more time playing in the park than typical throughout the week, we can dial this down.
+  
 ## Feeding
 **Main meals:**
 - Twice per day (after morning walk and 6-7pm), Purina, 150g each time.
