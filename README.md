@@ -46,7 +46,10 @@ Tends to find the outdoors more exciting than treats however working on giving a
 - No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated). We have nappies for this (**take off when going outside!**)
 
 ## Play
-- Will chase a ball endlessly if chucked. We would always try and get a command out of him before throwing ("touch", "middle", "ball"). We limit it to 5 mins at a time, and state 'all done' wiping our hands together to signal the game is over. Often say 'all done, game over' whilst doing the motion.
+- Will chase a ball endlessly if chucked (and wouldn't know when to stop).
+- See also [Guide to the outdoors](#Guide to the outdoors)
+- At home, we have started a new style of play. If he brings a toy to play with, we may occasionally throw it to start with, which he then retrieves. However, rapidly we would move to a more exhausting / stimulating game which is to (1) Get him to go 'down' in a spot, and say 'stay' (2) You then slowly move away with the toy in question and hide it somewhere out of view (3) You then say 'find it!' and he goes to search for it until he finds it. This is far better than just throwing/retrieving for the same period of time, and wears him out. 
+- Often say 'all done, game over' whilst doing the motion.
 - Does not know how to tug 
 
 ## Sleep 
@@ -71,15 +74,14 @@ N.B. Important that the doors are not shut in the room he is in.
 |Recall command|To come to you from distance| "Cooper, come" |
 |Leave it|Ignore item| "leave it" + "good boy" once left it|
 |Round|Makes one round loop of you| Start in heel position next to you on your left. Signal to go round you clockwise and finish in same heel position, say "round"|
-
+|Spin clockwise|Spin clockwise| Finger pointed to ceiling (at chest level) and spin in clockwise motion   + "spin!"|
+|Come by|Goes around distant object in a clockwise manner and returns to you| Start in heel position, signal with a swoop and say "come by" round pillar, or object, and he will go round it and come to you.|
 
 | Trick to teach | Description | Command / hand motion |
 |-------|-------------|-----------------------|
 |Go to X|Goes to a room| In our flat: kitchen, study, bathroom, crate|
-|Spin clockwise|Spin clockwise| Arm in clockwise motion over his head  + "spin clock"|
 |Spin counter clockwise|Spin counter clockwise| Arm in anticlockwise motion over his head  + "spin clock"|
 |Back round|Makes one round loop of you backwards| Start in heel position next to you on your left. Signal to go round you anticlockwise (i.e. his bottom first)and finish in same heel position, say "back round"|
-|Come by|Goes around distant object in a clockwise manner and returns to you| Start in heel position, signal with a swoop and say "come by" round pillar, or object, and he will go round it and come to you.|
 
 ---
 
@@ -114,9 +116,11 @@ Pulling on lead
   - **Cooper doesn't mind other dogs coming up to him but equally does not really enjoy it either**. He does not want to actively meet dogs often and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get stressed. **We use a three second rule with dogs**. He can sniff for 3s then we say "Cooper come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
 
 Playing style:
-- His fetch is nearly 100% perfect and he will tend to come back half the distance and drop it. 
-- We nearly always get him to do 'touch' (holding our open palm out at thigh level) and he will run to touch the palm which is excellent behaviour and will accordingly by rewarded by you throwing the ball! Another command he's happy to follow is 'middle' (stand with legs somewhat apart so he can return and come through the middle of your legs - watch your legs as he'll have the yellow lead on). Another option is 'ball', holding out the launcher with the ball, he touches the ball.
-- He can play in the park forever but we limit this to 1 hour at a max. He needs water in a bowl during longer play sessions. We try to mix up play time with exploring/sniffing, but it's better to start and end with play time to get him more tired out.
+- His fetch is nearly 100% perfect and he will tend to come back half the distance and drop it.
+- We nearly always get him to do 'touch' (say 'touch!' + holding our open palm out at thigh level) -> he will run to touch the palm from afar -> we throw the ball to reward him
+- We also do 'middle' (say 'middle' + stand with legs apart -> he returns and runs through the middle of your legs -> we throw the ball
+- We don't do non-stop fetching. We may do four of the above, then say 'go sniff' or 'go walk' so he has a break from exercise and just goes to explore the environment/go to the toilet. He will keep looking back and we repeat 'go walk' until we feel it's time to start playing again (maybe 5 minutes later).
+- He needs water in a bowl during longer play sessions.
 
 ---
 
