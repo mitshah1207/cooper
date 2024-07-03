@@ -47,7 +47,7 @@ Tends to find the outdoors more exciting than treats however working on giving a
 
 ## Play
 - Will chase a ball endlessly if chucked (and wouldn't know when to stop).
-- See also [Guide to the outdoors](#Guide to the outdoors)
+- See also [Guide to the outdoors](#guide-to-the-outdoors)
 - At home, we have started a new style of play. If he brings a toy to play with, we may occasionally throw it to start with, which he then retrieves. However, rapidly we would move to a more exhausting / stimulating game which is to (1) Get him to go 'down' in a spot, and say 'stay' (2) You then slowly move away with the toy in question and hide it somewhere out of view (3) You then say 'find it!' and he goes to search for it until he finds it. This is far better than just throwing/retrieving for the same period of time, and wears him out. 
 - Often say 'all done, game over' whilst doing the motion.
 - Does not know how to tug 
