@@ -154,7 +154,7 @@ Not allowed to...
 Suggested routine as follows:
 - Wake up, take cone off to let him lick his privates and move around, then replace
 - Take out for morning walk. Note he was off running for about 2 months so he is a bit easier to tire and also he is slightly more anxious with cars. No long walks on streets, suggest simply going to nearby park, let him run around and enjoy the freedom and get back.
-- Once back, wipe the dewclaw with diluted 'hibiscrub'
+- Once back, wipe the dewclaw with diluted 'hibiscrub' (! part to 5, it is usually just a small drop) and a clean sterile swab.
 - Feed meal (with a probiotic, break it in half and give a few kibble with each half)
 - Put cone back on until the evening
 - Take off cone for evening meal (with another probiotic) and then replace (or keep off if you can keep an eye on him)
