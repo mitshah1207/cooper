@@ -14,9 +14,9 @@ Weekdays:
 - Wake up ~7-8am
 - Until the walk, he is keen to play with the ball. We would chuck this a number of times before saying the 'all done' command
 - Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency. 2x per week we would walk to the park for an approx 45 minute fetch session.
-- Then he takes his first meal of the day ~11-12am - in a bowl
+- Then he takes his first meal of the day ~11-12am - in a bowl / Kong Wobbler. **Give probiotic, by hand feeding with some kibble**
 - Generally sleeps or rests until dinner
-- Dinner ~7pm (either with tricks or hand feed)
+- Dinner ~7pm (either with tricks / hand feed / Kong Wobbler / feeder bowl) **Give probiotic, by hand feeding with some kibble**
 - Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems). We would throw the ball from this point for him to retrieve. If we aren't resting we would do this with tricks and reward the trick with the ball throw. Finish play session with 'all done' command, and we are trying to use 'settle' as a phrase to now rest and lie down.  
 - Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
 - Sleeps when we do in variable locations, mostly in the same room with us. Doesn't sleep on the bed, might jump on it in the morning to greet you.
@@ -26,7 +26,7 @@ Weekends:
   
 ## Feeding
 **Main meals:**
-- Twice per day (after morning walk and 6-7pm), Purina, 150g each time.
+- Twice per day (after morning walk and 6-7pm), Purina, 170g morning, 150g evening.
 - OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
 - OPTION 2: feed meal through Kong wobbler, normally the morning meal after the walk. 
 - OPTION 3: give it for 'free' in a slow feeder bowl.
@@ -147,3 +147,16 @@ Not allowed to...
 - During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224)
 - Out of hours, the 24 hr vet is Stone Lion in Wimbledon
 - To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
+
+## Additional notes Feb 2025
+- Nail broken in left foot (the one that's brown and white) led to infection of that nail bed, which then resolved but led to a dewclaw skin fold infection. He completed antibiotics in Jan for this. He has been wearing a cone since mid-November indoors. This is extremely important because he cannot lick his paws (though we have not noticed him doing so for the past few weeks). We take this off for periods when we can definitely see what he's doing most times, and stop him licking if that were to occur (e.g when we are relaxing, and so is he, and we can see he's not licking). Take cone off for outdoor activity. He sleeps in the cone. 
+
+Suggested routine as follows:
+- Wake up, take cone off to let him lick his privates and move around, then replace
+- Take out for morning walk. Note he was off running for about 2 months so he is a bit easier to tire and also he is slightly more anxious with cars. No long walks on streets, suggest simply going to nearby park, let him run around and enjoy the freedom and get back.
+- Once back, wipe the dewclaw with diluted 'hibiscrub'
+- Feed meal (with a probiotic, break it in half and give a few kibble with each half)
+- Put cone back on until the evening
+- Take off cone for evening meal (with another probiotic) and then replace (or keep off if you can keep an eye on him)
+- Take for night walk ideally in low traffic environment as the car lights / noises are irritating for him (maybe the green area behind your flat)
+- When home, put cone back on for the night.
