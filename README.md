@@ -158,6 +158,8 @@ Suggested routine as follows:
 - Feed meal (with a **probiotic**, break it in half and give a few kibble with each half)
 - Put cone back on until the evening
 - Take off cone for evening meal (with another **probiotic**) and then replace (or keep off if you can keep an eye on him)
+- Can give him a chew in the evening, he loves it and will keep him quiet for 10 minutes or so, and possibly tire him a bit.
 - Take for night walk ideally in low traffic environment as the car lights / noises are irritating for him (maybe the green area behind your flat)
 - When home, put cone back on for the night.
 - Throughout, ensure the water in the bowl is right to the top because it can be hard to reach the bottom, and it's a smaller container overall.
+
