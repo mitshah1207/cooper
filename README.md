@@ -152,14 +152,16 @@ Not allowed to...
 - Nail broken in left foot (the one that's brown and white) led to infection of that nail bed, which then resolved but led to a dewclaw skin fold infection. He completed antibiotics in Jan for this. He has been wearing a cone since mid-November indoors. This is extremely important because he cannot lick his paws (though we have not noticed him doing so for the past few weeks). We take this off for periods when we can definitely see what he's doing most times, and stop him licking if that were to occur (e.g when we are relaxing, and so is he, and we can see he's not licking). Take cone off for outdoor activity. He sleeps in the cone. 
 
 Suggested routine as follows:
-- Wake up, take cone off to let him lick his privates and move around, then replace the cone on his head. To replace it, do so encouragingly with a lot of praise and then give one kibble once the cone is back on! 
+- Wake up, take cone off to let him lick his privates and move around, then replace the cone on his head (if not watching him). To replace it, do so encouragingly with a lot of praise and then give one kibble once the cone is back on! 
 - Take out for morning walk (cone off). Note, he was not allowed to run for ~2 months so he is a bit easier to tire and also he is slightly more anxious with cars. No long walks on streets, suggest simply going to nearby park, let him run around and enjoy the freedom and get back.
-- Once back, wipe the dewclaw with diluted '**hibiscrub**' made in a clean glass/mug (suggest do this before setting off, 1 part to 5, it is usually just a small drop) and a clean sterile swab.
-- Feed meal (with a **probiotic**, break it in half and give a few kibble with each half)
+- Once back, wipe the dewclaw with diluted '**hibiscrub**' made in a clean glass/mug (1 part to 5, it is usually just a small drop) and a clean sterile swab.
+- Feed meal (with a **probiotic**, break it in half and give a few kibble with each half, or place inside feeder bowl with kibble if using)
 - Put cone back on until the evening
 - Take off cone for evening meal (with another **probiotic**) and then replace (or keep off if you can keep an eye on him)
 - Can give him a chew in the evening, he loves it and will keep him quiet for 10 minutes or so, and possibly tire him a bit.
 - Take for night walk ideally in low traffic environment as the car lights / noises are irritating for him (maybe the green area behind your flat)
 - When home, put cone back on for the night.
+- Once back, wipe the dewclaw with diluted '**hibiscrub**' made in a clean glass/mug (1 part to 5, it is usually just a small drop) and a clean sterile swab.
+- I think Cooper has a sensitive stomach so please wash feeder bowls regularly if using.
 - Throughout, ensure the water in the bowl is right to the top because it can be hard to reach the bottom, and it's a smaller container overall.
 
