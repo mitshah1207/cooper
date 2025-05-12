@@ -13,24 +13,26 @@ Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found 
 Weekdays:
 - Wake up ~7-8am
 - Until the walk, he is keen to play with the ball. We would chuck this a number of times before saying the 'all done' command
+- **Give first pentoxyfilline tablet** ([how to video]([www.google.com](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)). 
 - Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency. 2x per week we would walk to the park for an approx 45 minute fetch session.
-- Then he takes his first meal of the day ~11-12am - in a bowl / Kong Wobbler. **Give probiotic, by hand feeding with some kibble**
+- Then he takes his first meal of the day ~11-12am - in a bowl / Kong Wobbler. **Give probiotic, by hand feeding with some kibble or putting in the bowl**
 - Generally sleeps or rests until dinner
-- Dinner ~7pm (either with tricks / hand feed / Kong Wobbler / feeder bowl) **Give probiotic, by hand feeding with some kibble**
-- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems). We would throw the ball from this point for him to retrieve. If we aren't resting we would do this with tricks and reward the trick with the ball throw. Finish play session with 'all done' command, and we are trying to use 'settle' as a phrase to now rest and lie down.  
+- Dinner ~7pm (either with tricks / hand feed / Kong Wobbler / feeder bowl) **Give probiotic, by hand feeding with some kibble or putting in the bowl**
+- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems).   
 - Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
-- Sleeps when we do in variable locations, mostly in the same room with us. Doesn't sleep on the bed, might jump on it in the morning to greet you.
+- **Give second pentoxyfilline tablet**
+- Sleeps when we do in variable locations.
 
 Weekends:
 - We usually don't work on weekends and aim to do a 2-3 hour walk in nature (e.g. Richmond Park, Surrey Hills). This is to somewhat 'make up' for a slightly urban set of weekdays for Cooper. If he gets more time playing in the park than typical throughout the week, we can dial this down.
   
 ## Feeding
 **Main meals:**
-- Twice per day (after morning walk and 6-7pm), Purina, 170g morning, 150g evening.
+- Twice per day (after morning walk and 6-7pm), Purina, 150g morning, 150g evening.
 - OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
 - OPTION 2: feed meal through Kong wobbler, normally the morning meal after the walk. 
 - OPTION 3: give it for 'free' in a slow feeder bowl.
-- **If unwell**, feed a bland diet: 290kCal from potato (440g boiled unskinned potato)+ 290kCal from chicken (211g boiled chicken) = 580kCal per meal (he doesn't like rice) 
+- **If unwell**, feed a bland diet: 290kCal from potato (440g boiled unskinned potato) + 290kCal from fish (310g baked white fish) = 580kCal per meal (he doesn't like rice) OR use the GI diet cans (2 per day). Feed these 2 meals of the day in 4 parts throughout the day. 
 - See also [troubleshooting](#troubleshooting)
 
 **Treats**:
@@ -44,9 +46,10 @@ Tends to find the outdoors more exciting than treats however working on giving a
 - Usually goes twice per day and can last 10-12 hours comfortably without problem. Well toilet trained.
 - Poos twice often during a walk (morning) and usually once at night.
 - No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated). We have nappies for this (**take off when going outside!**)
+- Will let you know if he needs to desperately go by scratching on the main door or banging on this (has happened a few times if he has a stomach bug)
 
 ## Play
-- Will chase a ball endlessly if chucked (and wouldn't know when to stop).
+- Will chase a ball endlessly if chucked (and wouldn't know when to stop) - we don't encourage non-stop throws. 
 - See also [Guide to the outdoors](#guide-to-the-outdoors)
 - At home, we have started a new style of play. If he brings a toy to play with, we may occasionally throw it to start with, which he then retrieves. However, rapidly we would move to a more exhausting / stimulating game which is to (1) Get him to go 'down' in a spot, and say 'stay' (2) You then slowly move away with the toy in question and hide it somewhere out of view (3) You then say 'find it!' and he goes to search for it until he finds it. This is far better than just throwing/retrieving for the same period of time, and wears him out. 
 - Often say 'all done, game over' whilst doing the motion.
@@ -148,7 +151,7 @@ Not allowed to...
 - Out of hours, the 24 hr vet is Stone Lion in Wimbledon
 - To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
 
-## Additional notes Feb 2025
+## Additional notes Feb 2025 - Archive
 - Nail broken in left foot (the one that's brown and white) led to infection of that nail bed, which then resolved but led to a dewclaw skin fold infection. He completed antibiotics in Jan for this. He has been wearing a cone since mid-November indoors. This is extremely important because he cannot lick his paws (though we have not noticed him doing so for the past few weeks). We take this off for periods when we can definitely see what he's doing most times, and stop him licking if that were to occur (e.g when we are relaxing, and so is he, and we can see he's not licking). Take cone off for outdoor activity. He sleeps in the cone. 
 
 Suggested routine as follows:
