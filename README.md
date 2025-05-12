@@ -13,7 +13,7 @@ Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found 
 Weekdays:
 - Wake up ~7-8am
 - Until the walk, he is keen to play with the ball. We would chuck this a number of times before saying the 'all done' command
-- **Give first pentoxyfilline tablet** ([how to video]([www.google.com](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)). 
+- **Give first pentoxyfilline tablet** ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)). 
 - Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency. 2x per week we would walk to the park for an approx 45 minute fetch session.
 - Then he takes his first meal of the day ~11-12am - in a bowl / Kong Wobbler. **Give probiotic, by hand feeding with some kibble or putting in the bowl**
 - Generally sleeps or rests until dinner
