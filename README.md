@@ -27,12 +27,16 @@ Weekends:
 - We usually don't work on weekends and aim to do a 2-3 hour walk in nature (e.g. Richmond Park, Surrey Hills). This is to somewhat 'make up' for a slightly urban set of weekdays for Cooper. If he gets more time playing in the park than typical throughout the week, we can dial this down.
   
 ## Feeding
-**Main meals:**
+### Main meals:
 - Twice per day (after morning walk and 6-7pm), Purina, 150g morning, 150g evening.
 - OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
 - OPTION 2: feed meal through Kong wobbler, normally the morning meal after the walk. 
 - OPTION 3: give it for 'free' in a slow feeder bowl.
-- **If unwell**, feed a bland diet: 290kCal from potato (440g boiled unskinned potato) + 290kCal from fish (310g baked white fish) = 580kCal per meal (he doesn't like rice) OR use the GI diet cans (2 per day). Feed these 2 meals of the day in 4 parts throughout the day. 
+  
+### If unwell
+- The first signs of mucus in his poo or loose poo needs him to starve for 10-12 hours subsequently, then be fed bland diet + prokolin (+/- panacur)
+- Feed a bland diet: 290kCal from potato (440g boiled unskinned potato) + 290kCal from fish (310g baked white fish) = 580kCal per meal (he doesn't like rice) OR use the GI diet cans (2 per day). Feed these 2 meals of the day in 4 parts throughout the day.
+- Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers.
 - See also [troubleshooting](#troubleshooting)
 
 **Treats**:
