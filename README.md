@@ -29,9 +29,9 @@ Weekends:
 ## Feeding
 ### Main meals:
 - Twice per day (after morning walk and 6-7pm), Purina, 150g morning, 150g evening.
-- OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
-- OPTION 2: feed meal through Kong wobbler, normally the morning meal after the walk. 
-- OPTION 3: give it for 'free' in a slow feeder bowl.
+- OPTION 1: give it for 'free' in a slow feeder bowl (especially if has been to the park / had an active day) - bowl must be rinsed with some washing liquid after each use! 
+- OPTION 2: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
+- OPTION 3: feed meal through Kong wobbler, normally the morning meal after the walk. 
   
 ### If unwell
 - The first signs of mucus in his poo or loose poo needs him to starve for 10-12 hours subsequently, then be fed bland diet + prokolin (+/- panacur)
