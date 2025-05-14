@@ -39,12 +39,9 @@ Weekends:
 - Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers.
 - See also [troubleshooting](#troubleshooting)
 
-**Treats**:
-Tends to find the outdoors more exciting than treats however working on giving a treat (Salmon pate) when he sees a car and remains calm. Can be used at home for training, especially "ongoing" things like settle 
-
-**Long lasting chews** 
+### Treats / long-lasting chews
+- Fish / vegetarian based only (we don't think he tolerates chicken / other things)
 - He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
-- Can take 30-60 minutes to get through and will calm down. **One per day as required.**
 
 ## Toilet
 - Usually goes twice per day and can last 10-12 hours comfortably without problem. Well toilet trained.
