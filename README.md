@@ -154,7 +154,7 @@ Not allowed to...
 
 ---
 
-## Additional notes Feb 2025 - Archive
+# Additional notes Feb 2025 - Archive
 - Nail broken in left foot (the one that's brown and white) led to infection of that nail bed, which then resolved but led to a dewclaw skin fold infection. He completed antibiotics in Jan for this. He has been wearing a cone since mid-November indoors. This is extremely important because he cannot lick his paws (though we have not noticed him doing so for the past few weeks). We take this off for periods when we can definitely see what he's doing most times, and stop him licking if that were to occur (e.g when we are relaxing, and so is he, and we can see he's not licking). Take cone off for outdoor activity. He sleeps in the cone. 
 
 Suggested routine as follows:
