@@ -145,12 +145,14 @@ Not allowed to...
 | Behaviour                              | Likely cause + likely action to take                         |
 | -------------------------------------- | ------------------------------------------------------------ |
 | Incessant play | 'All done, game over' whilst wiping hands together|
-| Not eating meal | Could be unwell - feed bland diet - see - See also [If unwell](###ifunwel)|
+| Not eating meal | Could be unwell - feed bland diet - see - See also [If unwell](#if-unwell)|
 
 ## Vet
 - During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224)
 - Out of hours, the 24 hr vet is Stone Lion in Wimbledon
 - To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
+
+---
 
 ## Additional notes Feb 2025 - Archive
 - Nail broken in left foot (the one that's brown and white) led to infection of that nail bed, which then resolved but led to a dewclaw skin fold infection. He completed antibiotics in Jan for this. He has been wearing a cone since mid-November indoors. This is extremely important because he cannot lick his paws (though we have not noticed him doing so for the past few weeks). We take this off for periods when we can definitely see what he's doing most times, and stop him licking if that were to occur (e.g when we are relaxing, and so is he, and we can see he's not licking). Take cone off for outdoor activity. He sleeps in the cone. 
