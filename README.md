@@ -27,7 +27,7 @@ Weekends:
   
 ## Feeding
 ### Main meals:
-- Twice per day (as per [Daily routine](#dailyroutine)), Purina, 150g morning, 150g evening.
+- Twice per day (as per [Daily routine](#daily-routine)), Purina, 150g morning, 150g evening.
 - OPTION 1: give it for 'free' in a slow feeder bowl (especially if has been to the park / had an active day) - bowl must be rinsed with some washing liquid after each use! 
 - OPTION 2: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
 - OPTION 3: feed meal through Kong wobbler, normally the evening meal after the walk. 
