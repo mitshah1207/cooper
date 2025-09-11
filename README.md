@@ -12,45 +12,44 @@ Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found 
 ## Daily routine
 Weekdays:
 - Wake up ~7-8am
-- Until the walk, he is keen to play with the ball. We would chuck this a number of times before saying the 'all done' command
 - **Give first pentoxyfilline tablet** ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)). 
-- Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency. 2x per week we would walk to the park for an approx 45 minute fetch session.
-- Then he takes his first meal of the day ~11-12am - in a bowl / Kong Wobbler. **Give probiotic, by hand feeding with some kibble or putting in the bowl**
+- Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are _really_ low frequency. 3x per week we would walk to the park for an approx 45 minute fetch session.
+- Then he takes his first meal of the day ~11-12am - in a bowl, once he is home and rested for a while. **Give probiotic, by putting in the bowl**
 - Generally sleeps or rests until dinner
 - Dinner ~7pm (either with tricks / hand feed / Kong Wobbler / feeder bowl) **Give probiotic, by hand feeding with some kibble or putting in the bowl**
-- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems).   
+- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems). Most effective game here is 'find it'.
 - Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
 - **Give second pentoxyfilline tablet**
-- Sleeps when we do in variable locations.
+- Sleeps when we do in variable locations, usually by our bed. 
 
 Weekends:
 - We usually don't work on weekends and aim to do a 2-3 hour walk in nature (e.g. Richmond Park, Surrey Hills). This is to somewhat 'make up' for a slightly urban set of weekdays for Cooper. If he gets more time playing in the park than typical throughout the week, we can dial this down.
   
 ## Feeding
 ### Main meals:
-- Twice per day (after morning walk and 6-7pm), Purina, 150g morning, 150g evening.
+- Twice per day (as per [Daily routine](#dailyroutine)), Purina, 150g morning, 150g evening.
 - OPTION 1: give it for 'free' in a slow feeder bowl (especially if has been to the park / had an active day) - bowl must be rinsed with some washing liquid after each use! 
 - OPTION 2: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
-- OPTION 3: feed meal through Kong wobbler, normally the morning meal after the walk. 
+- OPTION 3: feed meal through Kong wobbler, normally the evening meal after the walk. 
   
 ### If unwell
-- The first signs of mucus in his poo or loose poo needs him to starve for 10-12 hours subsequently, then be fed bland diet + prokolin (+/- panacur)
+- **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
 - Feed a bland diet: 290kCal from potato (440g boiled unskinned potato) + 290kCal from fish (310g baked white fish) = 580kCal per meal (he doesn't like rice) OR use the GI diet cans (2 per day). Feed these 2 meals of the day in 4 parts throughout the day.
-- Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers.
+- Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food. 
 - See also [troubleshooting](#troubleshooting)
 
 ### Treats / long-lasting chews
-- Fish / vegetarian based only (we don't think he tolerates chicken / other things)
+- Fish / vegetarian based only (he doesn't tolerate chicken / other things)
 - He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
 
 ## Toilet
 - Usually goes twice per day and can last 10-12 hours comfortably without problem. Well toilet trained.
 - Poos twice often during a walk (morning) and usually once at night.
-- No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated). We have nappies for this (**take off when going outside!**)
+- No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated). We have nappies for this, although lately he hasn't done this at all.
 - Will let you know if he needs to desperately go by scratching on the main door or banging on this (has happened a few times if he has a stomach bug)
 
 ## Play
-- Will chase a ball endlessly if chucked (and wouldn't know when to stop) - we don't encourage non-stop throws. 
+- Will chase a ball endlessly if chucked (and wouldn't know when to stop) - we therefore don't encourage non-stop throws. 
 - See also [Guide to the outdoors](#guide-to-the-outdoors)
 - At home, we have started a new style of play. If he brings a toy to play with, we may occasionally throw it to start with, which he then retrieves. However, rapidly we would move to a more exhausting / stimulating game which is to (1) Get him to go 'down' in a spot, and say 'stay' (2) You then slowly move away with the toy in question and hide it somewhere out of view (3) You then say 'find it!' and he goes to search for it until he finds it. This is far better than just throwing/retrieving for the same period of time, and wears him out. 
 - Often say 'all done, game over' whilst doing the motion.
@@ -92,13 +91,13 @@ N.B. Important that the doors are not shut in the room he is in.
 # Challenges
 
 ## Challenges whilst indoors
-No obvious challenges encountered. Incessant want to play is perhaps the biggest challenge. If he's tired from the walk/play session especially after a few good days of activity, he will leave you alone and just rest. 
+No obvious challenges encountered. Incessant want to play is perhaps the biggest challenge. If he's tired from the walk/play session especially after a few good days of activity, he will leave you alone and just rest. 'Find it' is the best game, not chucking the toy indoors as this wouldn't really tire him out. 
 
 ## Challenges outdoors
 Wants to chase or herd cars when outside. We are trying to overcome this by the following:
 - Walking him when there's low traffic and on streets with low volume traffic only
 - Starting to say 'leave it' firmly if he is fixating on a car
-- Sometimes it helps to stop and wait for the traffic to pass. He can be gven treats at the same time for leaving it.
+- Sometimes it helps to stop and wait for the traffic to pass. He can be gven treats at the same time for leaving it, whilst saying 'leave it' then praising, then re-focussing on you by saying 'look at me'.
 
 Pulling on lead
 - If pulls we do an instant 180 degrees, walk a variable distance back and then do another 180 back to where we were going. He's slowly learning but work in progress. In future we will try teaching a heel or using a halti. Will pull a lot with traffic and when he thinks he's about to play (e.g., entering the park)
@@ -120,7 +119,7 @@ Pulling on lead
   - **Cooper doesn't mind other dogs coming up to him but equally does not really enjoy it either**. He does not want to actively meet dogs often and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get stressed. **We use a three second rule with dogs**. He can sniff for 3s then we say "Cooper come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
 
 Playing style:
-- His fetch is nearly 100% perfect and he will tend to come back half the distance and drop it.
+- His fetch is nearly 100% perfect.
 - We nearly always get him to do 'touch' (say 'touch!' + holding our open palm out at thigh level) -> he will run to touch the palm from afar -> we throw the ball to reward him
 - We also do 'middle' (say 'middle' + stand with legs apart -> he returns and runs through the middle of your legs -> we throw the ball
 - We don't do non-stop fetching. We may do four of the above, then say 'go sniff' or 'go walk' so he has a break from exercise and just goes to explore the environment/go to the toilet. He will keep looking back and we repeat 'go walk' until we feel it's time to start playing again (maybe 5 minutes later).
