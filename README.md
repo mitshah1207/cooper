@@ -27,11 +27,11 @@ Weekdays:
 - Walk (approx. 1 hr) starting anytime between 9:30-10:30am. We try to go out when the cars are _really_ low frequency.
 - Once arrive home, take off boot and do the **first paw soak** with his first meal. Replace cone. 
 - Generally rests with the cone on. Mid-afternoon a few times we take it off to give him a brief break, play 'hide it' for 4-5 times, then replace the cone. 
-- /2/3 of his dinner ~7pm with **second paw soak** 
+- Two-thirds (approx) of his dinner ~7pm with **second paw soak** 
 - Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm. Take off cone again if he wants this and play hide it, and replace cone.
 - Take cone off once ready to go out. **Give second pentoxyfilline and probiotic tablet**
 - Bag and boot his paw, walk between 10-11pm for 30mins .. the later the better so it's quieter in terms of cars.
-- Once back, **third paw soak** with the remaining food
+- Once back, **third paw soak** with the remaining one-third food.
 - Sleeps when we do in variable locations, usually by our bed.
   
 ## Feeding
