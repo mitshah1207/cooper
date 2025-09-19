@@ -9,28 +9,34 @@
 ## Introduction
 Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in Sept 2023. He is a typical border collie that needs mental and physical stimulation. He is very affectionate, loving, good with other dogs (submissive with them) and playful. He is an extremely quick learner true to his breed. 
 
-## Daily routine
-Weekdays:
-- Wake up ~7-8am
-- **Give first pentoxyfilline tablet** ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)). 
-- Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are _really_ low frequency. 3x per week we would walk to the park for an approx 45 minute fetch session.
-- Then he takes his first meal of the day ~11-12am - in a bowl, once he is home and rested for a while. **Give probiotic, by putting in the bowl**
-- Generally sleeps or rests until dinner
-- Dinner ~7pm (either with tricks / hand feed / Kong Wobbler / feeder bowl) **Give probiotic, by hand feeding with some kibble or putting in the bowl**
-- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems). Most effective game here is 'find it'.
-- Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
-- **Give second pentoxyfilline tablet**
-- Sleeps when we do in variable locations, usually by our bed. 
+## Daily routine (update for September 2025)
+Given the paw issue, the guidance is to avoid impact / running / sliding to protect to paw and to not let it get dirty or wet. This means no off lead running or chasing objects, or going in grass/mud/water. He needs it to be kept clean 3x per day, and cone at home, and below is the routine we have developed which has worked in Sept 2025. 
 
-Weekends:
-- We usually don't work on weekends and aim to do a 2-3 hour walk in nature (e.g. Richmond Park, Surrey Hills). This is to somewhat 'make up' for a slightly urban set of weekdays for Cooper. If he gets more time playing in the park than typical throughout the week, we can dial this down.
+To clean the paw, it is dunked into a jar containing 15mL of chlorhexidine, and 150mL of water. He either sits or stands for this, and is praised and fed throughout this process. It is dunked for 5 minutes. He then goes into a cone, and is free to walk around. 
+
+To take the cone off unclip his collar, then gently pull off. To replace it, do so encouragingly with a lot of praise and then give one kibble once the cone is back on! 
+
+With the cone on, he needs a modified water bowl. The bowl must be kept full at all times, as he probably can't reach the water if it's half-full! 
+
+Weekdays:
+- Cooper wakes up with you. 
+- Take cone off so he can lick himself/have a bit of a break (under your supervision at all times) and replace after a few minutes.
+- Take cone off once ready to go out. 
+- **Give first pentoxyfilline and probiotic tablets** ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)).
+- The injured paw needs 2 poo bags, then a dog boot whenever he goes outside (tip: wear the bags on the foot, then put the boot on, then tie the bags with a knot).
+- Walk (approx. 1 hr) starting anytime between 9:30-10:30am. We try to go out when the cars are _really_ low frequency.
+- Once arrive home, take off boot and do the **first paw soak** with his first meal. Replace cone. 
+- Generally rests with the cone on. Mid-afternoon a few times we take it off to give him a brief break, play 'hide it' for 4-5 times, then replace the cone. 
+- /2/3 of his dinner ~7pm with **second paw soak** 
+- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm. Take off cone again if he wants this and play hide it, and replace cone.
+- Take cone off once ready to go out. **Give second pentoxyfilline and probiotic tablet**
+- Bag and boot his paw, walk between 10-11pm for 30mins .. the later the better so it's quieter in terms of cars.
+- Once back, **third paw soak** with the remaining food
+- Sleeps when we do in variable locations, usually by our bed.
   
 ## Feeding
 ### Main meals:
-- Twice per day (as per [Daily routine](#daily-routine)), Purina, 150g morning, 150g evening.
-- OPTION 1: give it for 'free' in a slow feeder bowl (especially if has been to the park / had an active day) - bowl must be rinsed with some washing liquid after each use! 
-- OPTION 2: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five). Normally do it with the dinner.
-- OPTION 3: feed meal through Kong wobbler, normally the evening meal after the walk. 
+- Twice per day (as per [Daily routine](#daily-routine)), Purina, 135g morning, 135g evening.
   
 ### If unwell
 - **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
@@ -150,23 +156,3 @@ Not allowed to...
 - During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224)
 - Out of hours, the 24 hr vet is Stone Lion in Wimbledon
 - To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
-
----
-
-# Additional notes Feb 2025 - Archive
-- Nail broken in left foot (the one that's brown and white) led to infection of that nail bed, which then resolved but led to a dewclaw skin fold infection. He completed antibiotics in Jan for this. He has been wearing a cone since mid-November indoors. This is extremely important because he cannot lick his paws (though we have not noticed him doing so for the past few weeks). We take this off for periods when we can definitely see what he's doing most times, and stop him licking if that were to occur (e.g when we are relaxing, and so is he, and we can see he's not licking). Take cone off for outdoor activity. He sleeps in the cone. 
-
-Suggested routine as follows:
-- Wake up, take cone off to let him lick his privates and move around, then replace the cone on his head (if not watching him). To replace it, do so encouragingly with a lot of praise and then give one kibble once the cone is back on! 
-- Take out for morning walk (cone off). Note, he was not allowed to run for ~2 months so he is a bit easier to tire and also he is slightly more anxious with cars. No long walks on streets, suggest simply going to nearby park, let him run around and enjoy the freedom and get back.
-- Once back, wipe the dewclaw with diluted '**hibiscrub**' made in a clean glass/mug (1 part to 5, it is usually just a small drop) and a clean sterile swab.
-- Feed meal (with a **probiotic**, break it in half and give a few kibble with each half, or place inside feeder bowl with kibble if using)
-- Put cone back on until the evening
-- Take off cone for evening meal (with another **probiotic**) and then replace (or keep off if you can keep an eye on him)
-- Can give him a chew in the evening, he loves it and will keep him quiet for 10 minutes or so, and possibly tire him a bit.
-- Take for night walk ideally in low traffic environment as the car lights / noises are irritating for him (maybe the green area behind your flat)
-- When home, put cone back on for the night.
-- Once back, wipe the dewclaw with diluted '**hibiscrub**' made in a clean glass/mug (1 part to 5, it is usually just a small drop) and a clean sterile swab.
-- I think Cooper has a sensitive stomach so please wash feeder bowls regularly if using.
-- Throughout, ensure the water in the bowl is right to the top because it can be hard to reach the bottom, and it's a smaller container overall.
-
