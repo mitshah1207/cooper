@@ -9,40 +9,31 @@
 ## Introduction
 Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in Sept 2023. He is a typical border collie that needs mental and physical stimulation. He is very affectionate, loving, good with other dogs (submissive with them) and playful. He is an extremely quick learner true to his breed. 
 
-## Daily routine (update for September 2025)
-Given the paw issue, the guidance is to avoid impact / running / sliding to protect to paw and to not let it get dirty or wet. This means no off lead running or chasing objects, or going in grass/mud/water. He needs it to be kept clean 3x per day, and cone at home, and below is the routine we have developed which has worked in Sept 2025. 
-
-To clean the paw, it is dunked into a jar containing 15mL of chlorhexidine, and 150mL of water. He either sits or stands for this, and is praised and fed throughout this process. It is dunked for 5 minutes. He then goes into a cone, and is free to walk around. 
-
-To take the cone off unclip his collar, then gently pull off. To replace it, do so encouragingly with a lot of praise and then give one kibble once the cone is back on! 
-
-With the cone on, he needs a modified water bowl. The bowl must be kept full at all times, as he probably can't reach the water if it's half-full! 
-
+## Daily routine
 Weekdays:
-- Cooper wakes up with you. 
-- Take cone off so he can lick himself/have a bit of a break (under your supervision at all times) and replace after a few minutes.
-- Take cone off once ready to go out. 
-- **Give first pentoxyfilline and probiotic tablets** ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)).
-- The injured paw needs 2 poo bags, then a dog boot whenever he goes outside (tip: wear the bags on the foot, then put the boot on, then tie the bags with a knot).
-- Walk (approx. 1 hr) starting anytime between 9:30-10:30am. We try to go out when the cars are _really_ low frequency.
-- Once arrive home, take off boot and do the **first paw soak** with his first meal. Replace cone. 
-- Generally rests with the cone on. Mid-afternoon a few times we take it off to give him a brief break, play 'hide it' for 4-5 times, then replace the cone. 
-- Two-thirds (approx) of his dinner ~7pm with **second paw soak** 
-- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm. Take off cone again if he wants this and play hide it, and replace cone.
-- Take cone off once ready to go out. **Give second pentoxyfilline and probiotic tablet**
-- Bag and boot his paw, walk between 10-11pm for 30mins .. the later the better so it's quieter in terms of cars.
-- Once back, **third paw soak** with the remaining one-third food.
-- Sleeps when we do in variable locations, usually by our bed.
+- Wake up ~7-8am
+- Until the walk, he is keen to play with the ball. We do 1-2 'hide' play sessions if he's bugging us.
+- Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency. 2x per week we would walk to the park for an approx 45 minute fetch session.
+- Then he takes his first meal of the day ~11-12am - in a bowl / Kong Wobbler. **Give probiotic and fibre, by hand feeding with some kibble or putting in the bowl**
+- Generally sleeps or rests until dinner
+- Dinner ~7pm (either with tricks / hand feed / Kong Wobbler / feeder bowl) **Give probiotic and fibre, by hand feeding with some kibble or putting in the bowl**
+- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems - 'hide' games here too).   
+- Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
+- Sleeps when we do in variable locations.
+
+Weekends:
+- We usually don't work on weekends and aim to do a 2-3 hour walk in nature (e.g. Richmond Park, Surrey Hills). This is to somewhat 'make up' for a slightly urban set of weekdays for Cooper. If he gets more time playing in the park than typical throughout the week, we can dial this down.
   
 ## Feeding
 ### Main meals:
-- Twice per day (as per [Daily routine](#daily-routine)), Purina, 135g morning, 135g evening.
+- Twice per day (as per [Daily routine](#daily-routine)), Purina, 140g morning, 140g evening.
   
 ### If unwell
 - **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
-- Feed a bland diet: 290kCal from potato (440g boiled unskinned potato) + 290kCal from fish (310g baked white fish) = 580kCal per meal (he doesn't like rice) OR use the GI diet cans (2 per day). Feed these 2 meals of the day in 4 parts throughout the day.
+- Use the GI diet cans (2 per day). Feed these 2 meals of the day in 4 parts throughout the day.
 - Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food. 
 - See also [troubleshooting](#troubleshooting)
+- NB. We used to attempt a bland diet (290kCal from potato i.e. 440g boiled unskinned potato + 290kCal from fish i.e. 310g baked white fish) but we don't think he tolerates this.
 
 ### Treats / long-lasting chews
 - Fish / vegetarian based only (he doesn't tolerate chicken / other things)
@@ -55,10 +46,10 @@ Weekdays:
 - Will let you know if he needs to desperately go by scratching on the main door or banging on this (has happened a few times if he has a stomach bug)
 
 ## Play
-- Will chase a ball endlessly if chucked (and wouldn't know when to stop) - we therefore don't encourage non-stop throws. 
+- Will chase a ball endlessly if chucked (and wouldn't know when to stop) - we therefore **don't** encourage non-stop throws. 
 - See also [Guide to the outdoors](#guide-to-the-outdoors)
 - At home, we have started a new style of play. If he brings a toy to play with, we may occasionally throw it to start with, which he then retrieves. However, rapidly we would move to a more exhausting / stimulating game which is to (1) Get him to go 'down' in a spot, and say 'stay' (2) You then slowly move away with the toy in question and hide it somewhere out of view (3) You then say 'find it!' and he goes to search for it until he finds it. This is far better than just throwing/retrieving for the same period of time, and wears him out. 
-- Often say 'all done, game over' whilst doing the motion.
+- Often say 'all done, game over' whilst doing the motion, once we want to stop
 - Does not know how to tug 
 
 ## Sleep 
