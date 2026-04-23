@@ -29,7 +29,7 @@ Cooper has a very sensitive gut. We have to be careful with his feeding bowls - 
 ### If unwell:
 - **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
 - Use the GI diet cans (2 cans/day). Feed these 2 meals of the day in 4 parts throughout the day.
-- Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food. Or mix into food if feeding the GI diet can. 
+- Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food.
 - See also [troubleshooting](#troubleshooting)
 - NB. We used to attempt a bland diet (290kCal from potato i.e. 440g boiled unskinned potato + 290kCal from fish i.e. 310g baked white fish) but we don't think he tolerates this.
 
