@@ -12,12 +12,12 @@ Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found 
 ## Daily routine
 - Wakes ~7–8am (when we do)
 - Before walk: eager to play ball; do 1–2 “hide” sessions if needed
-- Walk (1–1.5 hrs) between 9:30–10:30am; aim for very low traffic. 4x/week: park visit with ~45 min fetch/training
+- Morning walk (1–1.5 hrs) start between 9:30–10:30am; aim for very low traffic. 4x/week: park visit with ~45 min fetch/training
 - First meal ~11am–12pm (bowl or Kong Wobbler). Give probiotic + psyllium fibre (hand-feed with kibble or add to bowl). We use one teaspoon of psyllium fibre, and make into a gel by mixing it with 4 tablespoons water and letting it rest. Then just add it to the kibble. 
 - Rests/sleeps until evening
 - Dinner ~7pm (tricks, hand-feed, Kong Wobbler, or feeder). Give probiotic + fibre (same method)
 - ~9pm: second energy burst; play (incl. “hide” games). Ensure ≥1 hr after dinner
-- Evening walk 10–11pm (later = quieter traffic)
+- Night walk (30 minutes) start between 10–11pm (later = quieter traffic). Let him sniff as much as possible and walk slowly to let him do this. 
 - Sleeps when we do, in variable spots
 
 ## Feeding
