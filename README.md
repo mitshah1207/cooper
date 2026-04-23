@@ -7,7 +7,7 @@
 # 1. General Information 
 
 ## 1a. Introduction
-Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in Sept 2023. He is a typical border collie that needs mental and physical stimulation. He is very affectionate, loving, good with other dogs (submissive with them) and playful. He is an extremely quick learner true to his breed. 
+Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in Sept 2023. He is a typical border collie that needs mental and physical stimulation. He is very affectionate, loving, good with other dogs (submissive with them) and playful. He is an extremely quick learner true to his breed.
 
 ## 1b. Daily routine
 - Wakes ~7–8am (when we do)
