@@ -10,40 +10,37 @@
 Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in Sept 2023. He is a typical border collie that needs mental and physical stimulation. He is very affectionate, loving, good with other dogs (submissive with them) and playful. He is an extremely quick learner true to his breed. 
 
 ## Daily routine
-Weekdays:
-- Wake up ~7-8am
-- Until the walk, he is keen to play with the ball. We do 1-2 'hide' play sessions if he's bugging us.
-- Walk (approx. 1 - 1.5 hrs) starting anytime between 9:30-10:30am. We try to go out when the cars are really low frequency. 2x per week we would walk to the park for an approx 45 minute fetch session.
-- Then he takes his first meal of the day ~11-12am - in a bowl / Kong Wobbler. **Give probiotic and fibre, by hand feeding with some kibble or putting in the bowl**
-- Generally sleeps or rests until dinner
-- Dinner ~7pm (either with tricks / hand feed / Kong Wobbler / feeder bowl) **Give probiotic and fibre, by hand feeding with some kibble or putting in the bowl**
-- Between dinner and his evening walk he initially may rest but then has a second wave of energy and wants to play ~9pm (ensure his last meal was at least one hour ago to prevent any gut problems - 'hide' games here too).   
-- Walk between 10-11pm ... the later the better so it's quieter in terms of cars.
-- Sleeps when we do in variable locations.
+- Wakes ~7–8am (when we do)
+- Before walk: eager to play ball; do 1–2 “hide” sessions if needed
+- Walk (1–1.5 hrs) between 9:30–10:30am; aim for very low traffic. 4x/week: park visit with ~45 min fetch/training
+- First meal ~11am–12pm (bowl or Kong Wobbler). Give probiotic + psyllium fibre (hand-feed with kibble or add to bowl). We use one teaspoon of psyllium fibre, and make into a gel by mixing it with 4 tablespoons water and letting it rest. Then just add it to the kibble. 
+- Rests/sleeps until evening
+- Dinner ~7pm (tricks, hand-feed, Kong Wobbler, or feeder). Give probiotic + fibre (same method)
+- ~9pm: second energy burst; play (incl. “hide” games). Ensure ≥1 hr after dinner
+- Evening walk 10–11pm (later = quieter traffic)
+- Sleeps when we do, in variable spots
 
-Weekends:
-- We usually don't work on weekends and aim to do a 2-3 hour walk in nature (e.g. Richmond Park, Surrey Hills). This is to somewhat 'make up' for a slightly urban set of weekdays for Cooper. If he gets more time playing in the park than typical throughout the week, we can dial this down.
-  
 ## Feeding
+Cooper has a very sensitive gut. We have to be careful with his feeding bowls - new ones for each meal, and change water twice per day. 
+
 ### Main meals:
 - Twice per day (as per [Daily routine](#daily-routine)), Purina, 140g morning, 140g evening.
   
 ### If unwell
 - **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
-- Use the GI diet cans (2 per day). Feed these 2 meals of the day in 4 parts throughout the day.
-- Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food. 
+- Use the GI diet cans (2 cans/day). Feed these 2 meals of the day in 4 parts throughout the day.
+- Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food. Or mix into food if feeding the GI diet can. 
 - See also [troubleshooting](#troubleshooting)
 - NB. We used to attempt a bland diet (290kCal from potato i.e. 440g boiled unskinned potato + 290kCal from fish i.e. 310g baked white fish) but we don't think he tolerates this.
 
 ### Treats / long-lasting chews
-- Fish / vegetarian based only (he doesn't tolerate chicken / other things)
-- He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
+- Fish/vegetarian diet only (doesn’t tolerate chicken/other proteins)
+- Supervise while chewing (choking risk, though never occurred); ensure water available afterwards
 
 ## Toilet
-- Usually goes twice per day and can last 10-12 hours comfortably without problem. Well toilet trained.
-- Poos twice often during a walk (morning) and usually once at night.
-- No accidents at home, however the first 1-2 times he is in a new home setting he will attempt to urine mark (possibly as he's uncastrated). We have nappies for this, although lately he hasn't done this at all.
-- Will let you know if he needs to desperately go by scratching on the main door or banging on this (has happened a few times if he has a stomach bug)
+- Toilets 2x/day; can hold 10–12 hrs comfortably; fully house-trained
+- Typically poos 2-3x on morning walk, once at night
+- Signals urgent need by scratching or banging on the door (e.g. if unwell)
 
 ## Play
 - Will chase a ball endlessly if chucked (and wouldn't know when to stop) - we therefore **don't** encourage non-stop throws. 
@@ -53,8 +50,9 @@ Weekends:
 - Does not know how to tug 
 
 ## Sleep 
-- Cooper sleeps on the floor next to our bed. It would be good if he can sleep in the same room as you. He is allowed on the bed but rarely goes on it, and doesn't make use of his own dog bed either! 
-N.B. Important that the doors are not shut in the room he is in.
+- Sleeps on the floor next to our bed; ideally in the same room as you
+- Allowed on the bed but rarely uses it; also ignores his dog bed
+- N.B. Keep door open in the room he’s in at all times.
 
 ## Tricks and skills:
 
@@ -88,13 +86,15 @@ N.B. Important that the doors are not shut in the room he is in.
 # Challenges
 
 ## Challenges whilst indoors
-No obvious challenges encountered. Incessant want to play is perhaps the biggest challenge. If he's tired from the walk/play session especially after a few good days of activity, he will leave you alone and just rest. 'Find it' is the best game, not chucking the toy indoors as this wouldn't really tire him out. 
+- No major issues; main challenge is persistent desire to play
+- If well-exercised, will settle and rest
+- “Find it” is the most effective game; avoid indoor fetch as it’s less tiring mentally for him. 
 
 ## Challenges outdoors
 Wants to chase or herd cars when outside. We are trying to overcome this by the following:
 - Walking him when there's low traffic and on streets with low volume traffic only
 - Starting to say 'leave it' firmly if he is fixating on a car
-- Sometimes it helps to stop and wait for the traffic to pass. He can be gven treats at the same time for leaving it, whilst saying 'leave it' then praising, then re-focussing on you by saying 'look at me'.
+- Sometimes it helps to stop and wait for the traffic to pass, then re-focussing on you by saying 'look at me'.
 
 Pulling on lead
 - If pulls we do an instant 180 degrees, walk a variable distance back and then do another 180 back to where we were going. He's slowly learning but work in progress. In future we will try teaching a heel or using a halti. Will pull a lot with traffic and when he thinks he's about to play (e.g., entering the park)
