@@ -4,12 +4,12 @@
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
-# General Information
+# 1. General Information 
 
-## Introduction
+## 1a. Introduction
 Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in Sept 2023. He is a typical border collie that needs mental and physical stimulation. He is very affectionate, loving, good with other dogs (submissive with them) and playful. He is an extremely quick learner true to his breed. 
 
-## Daily routine
+## 1b.Daily routine
 - Wakes ~7–8am (when we do)
 - Before walk: eager to play ball; do 1–2 “hide” sessions if needed
 - Morning walk (1–1.5 hrs) start between 9:30–10:30am; aim for very low traffic (5x/week we go to the park, 2x/week we do urban street walks)
@@ -20,7 +20,7 @@ Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found 
 - Night walk (30 minutes) start between 10–11pm (later = quieter traffic). Let him sniff as much as possible and walk slowly to let him do this. 
 - Sleeps when we do, in variable spots
 
-## Feeding
+## 1c. Feeding
 Cooper has a very sensitive gut. We have to be careful with his feeding bowls - new ones for each meal, and change water twice per day. He eats a fish/vegetarian diet only (doesn’t tolerate chicken/other proteins)
 
 ### Main meals:
@@ -33,24 +33,24 @@ Cooper has a very sensitive gut. We have to be careful with his feeding bowls - 
 - See also [troubleshooting](#troubleshooting)
 <!-- NB. We used to attempt a bland diet (290kCal from potato i.e. 440g boiled unskinned potato + 290kCal from fish i.e. 310g baked white fish) but we don't think he tolerates this. -->
 
-## Toilet
+## 1d.Toilet
 - Toilets 2x/day; can hold 10–12 hrs comfortably; fully house-trained
 - Typically poos 2-3x on morning walk, once at night
 - Signals urgent need by scratching or banging on the door (e.g. if unwell)
 
-## Play
+## 1e. Play
 - Will chase a ball endlessly if chucked (and wouldn't know when to stop) - we therefore **don't** encourage non-stop throws. 
 - See also [Guide to the outdoors](#guide-to-the-outdoors)
 - At home, we have started a new style of play. If he brings a toy to play with, we may occasionally throw it to start with, which he then retrieves. However, rapidly we would move to a more exhausting / stimulating game which is to (1) Get him to go 'down' in a spot, and say 'stay' (2) You then slowly move away with the toy in question and hide it somewhere out of view (3) You then say 'find it!' and he goes to search for it until he finds it. This is far better than just throwing/retrieving for the same period of time, and wears him out. 
 - Often say 'all done, game over' whilst doing the motion, once we want to stop
 - Does not know how to tug 
 
-## Sleep 
+## 1f. Sleep 
 - Sleeps on the floor next to our bed; ideally in the same room as you
 - Allowed on the bed but rarely uses it; also ignores his dog bed
 - N.B. Keep door open in the room he’s in at all times.
 
-## Tricks and skills:
+## 1g. Tricks and skills:
 
 | Trick | Description | Command / hand motion |
 |-------|-------------|-----------------------|
@@ -79,7 +79,7 @@ Cooper has a very sensitive gut. We have to be careful with his feeding bowls - 
 
 ---
 
-# Challenges
+# 2. Challenges
 
 ## Challenges whilst indoors
 - No major issues; main challenge is persistent desire to play
