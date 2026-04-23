@@ -21,21 +21,17 @@ Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found 
 - Sleeps when we do, in variable spots
 
 ## Feeding
-Cooper has a very sensitive gut. We have to be careful with his feeding bowls - new ones for each meal, and change water twice per day. 
+Cooper has a very sensitive gut. We have to be careful with his feeding bowls - new ones for each meal, and change water twice per day. He eats a fish/vegetarian diet only (doesn’t tolerate chicken/other proteins)
 
 ### Main meals:
 - Twice per day (as per [Daily routine](#daily-routine)), Purina, 140g morning, 140g evening.
   
-### If unwell
+### If unwell:
 - **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
 - Use the GI diet cans (2 cans/day). Feed these 2 meals of the day in 4 parts throughout the day.
 - Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food. Or mix into food if feeding the GI diet can. 
 - See also [troubleshooting](#troubleshooting)
 - NB. We used to attempt a bland diet (290kCal from potato i.e. 440g boiled unskinned potato + 290kCal from fish i.e. 310g baked white fish) but we don't think he tolerates this.
-
-### Treats / long-lasting chews
-- Fish/vegetarian diet only (doesn’t tolerate chicken/other proteins)
-- Supervise while chewing (choking risk, though never occurred); ensure water available afterwards
 
 ## Toilet
 - Toilets 2x/day; can hold 10–12 hrs comfortably; fully house-trained
