@@ -1,5 +1,3 @@
-## Cooper
-
 # 1. General Information 
 
 ## 1a. Introduction
