@@ -9,7 +9,7 @@
 ## 1a. Introduction
 Cooper is a rescue, from the Dog's Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in Sept 2023. He is a typical border collie that needs mental and physical stimulation. He is very affectionate, loving, good with other dogs (submissive with them) and playful. He is an extremely quick learner true to his breed. 
 
-## 1b.Daily routine
+## 1b. Daily routine
 - Wakes ~7–8am (when we do)
 - Before walk: eager to play ball; do 1–2 “hide” sessions if needed
 - Morning walk (1–1.5 hrs) start between 9:30–10:30am; aim for very low traffic (5x/week we go to the park, 2x/week we do urban street walks)
@@ -33,7 +33,7 @@ Cooper has a very sensitive gut. We have to be careful with his feeding bowls - 
 - See also [troubleshooting](#troubleshooting)
 <!-- NB. We used to attempt a bland diet (290kCal from potato i.e. 440g boiled unskinned potato + 290kCal from fish i.e. 310g baked white fish) but we don't think he tolerates this. -->
 
-## 1d.Toilet
+## 1d. Toilet
 - Toilets 2x/day; can hold 10–12 hrs comfortably; fully house-trained
 - Typically poos 2-3x on morning walk, once at night
 - Signals urgent need by scratching or banging on the door (e.g. if unwell)
@@ -81,12 +81,12 @@ Cooper has a very sensitive gut. We have to be careful with his feeding bowls - 
 
 # 2. Challenges
 
-## Challenges whilst indoors
+## 2a. Challenges whilst indoors
 - No major issues; main challenge is persistent desire to play
 - If well-exercised, will settle and rest
 - “Find it” is the most effective game; avoid indoor fetch as it’s less tiring mentally for him. 
 
-## Challenges outdoors
+## 2b. Challenges outdoors
 Wants to chase or herd cars when outside. We are trying to overcome this by the following:
 - Walking him when there's low traffic and on streets with low volume traffic only
 - Starting to say 'leave it' firmly if he is fixating on a car
@@ -97,9 +97,8 @@ Pulling on lead
 
 ---
 
-# The Outdoors
+# 3. The Outdoors
 
-## Guide to the outdoors
 **Walking on residential roads**
 - Currently we just focus on him not pulling (see above)
 
@@ -111,7 +110,7 @@ Pulling on lead
   - He has reasonably good recall, especially if you are holding the ball in the launcher. The command is a sharp and firm 'Cooper come!'. 
   - **Cooper doesn't mind other dogs coming up to him but equally does not really enjoy it either**. He does not want to actively meet dogs often and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get stressed. **We use a three second rule with dogs**. He can sniff for 3s then we say "Cooper come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
 
-Playing style:
+**Playing style:**
 - His fetch is nearly 100% perfect.
 - We nearly always get him to do 'touch' (say 'touch!' + holding our open palm out at thigh level) -> he will run to touch the palm from afar -> we throw the ball to reward him
 - We also do 'middle' (say 'middle' + stand with legs apart -> he returns and runs through the middle of your legs -> we throw the ball
@@ -120,7 +119,7 @@ Playing style:
 
 ---
 
-# Behaviour and Medical
+# 4. Behaviour and Medical
 
 ## Negative commands:
 Note: we generally use [positive reinforcement](https://www.humanesociety.org/resources/positive-reinforcement-training) approaches. We would try our very best not to resort to using the following negative commands, as much as possible, especially with this sensitive dog.
