@@ -16,64 +16,41 @@ A guide to Cooper’s routine, behaviour, training, feeding, and medical care.
 
 ## Introduction
 
-Cooper is a rescue from Dogs Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in September 2023.
-
-He is a typical border collie who needs both mental and physical stimulation. He is extremely affectionate, loving, playful, and very good with other dogs (typically submissive with them). He is also an exceptionally quick learner.
+Cooper is a rescue from Dogs Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in September 2023. He is a typical border collie who needs both mental and physical stimulation. He is extremely affectionate, loving, playful, and very good with other dogs (typically submissive with them). He is also an exceptionally quick learner.
 
 ---
 
 ## Daily Routine
 
+Morning:
 - Wakes around 7–8am (when we do)
 - Before walk: eager to play ball; may do 1–2 “find it” sessions indoors
-- Morning walk (1–1.5 hrs) between 9:30–10:30am
-  - Aim for low traffic routes
-  - Usually:
-    - 5x/week park walks
-    - 2x/week urban street walks
 
-### Morning Meal (~11am–12pm)
+**Morning walk** (1–1.5 hrs) between 9:30–10:30am - aim for low traffic times
 
-Wait at least 20 minutes after the walk before feeding.
+**Morning meal (~11am–12pm)**
+- Wait at least 20 minutes after the walk before feeding.
+- Pero low fat kibble (140g) + probiotics (x2) + psyllium fibre gel (mix 1 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
 
-Feed:
-- Purina kibble (140g)
-- Probiotic
-- Psyllium fibre gel:
-  - 1 teaspoon psyllium fibre
-  - Mix with 4 tablespoons water
-  - Leave briefly to gel before mixing into food
-
-Use:
-- Clean bowl for every meal
-- Fresh water twice daily
-
-### Evening Routine
-
+Day:
 - Rest/sleeps through most of the afternoon
-- Dinner around 7pm
-  - Often through:
-    - tricks
-    - hand feeding
-    - Kong Wobbler
-    - feeder toys
-- Same probiotic + fibre routine as morning
 
-### Evening Energy Burst (~9pm)
+Evening:
+**Evening meal (~7pm–8pm)**
+- Pero low fat kibble (140g) + psyllium fibre gel (mix 1 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
+- Can either give this in a bowl, or in a Kong wobbler, or with a small bit of training to start with using tricks (see below)
 
-Usually wants to play:
-- “Find it”
-- Toy games
-- Light interaction
+Energy burst (~9pm):
+Usually wants to play - please use the game “Find it” (ensure this is at least 1 hour after dinner)
 
-Ensure this is at least 1 hour after dinner.
+**Night walk (~10pm–11pm)**
+30 mins, avoid traffic (doesn't like car lights or car noise at night), focus on letting him sniff and pee/poo etc. 
 
-### Night Walk
+> ⚠️ **Important:**  
+> - Use a clean bowl for every meal!
+> - Refresh water twice daily
 
-- Around 10–11pm
-- Usually 30 minutes
-- Later is better due to quieter traffic
-- Let him sniff as much as possible and walk slowly
+- Usually: 5x/week park sessions, 2x/week urban street walks
 
 ---
 
@@ -84,14 +61,9 @@ Cooper has a sensitive stomach.
 Important:
 - Use clean bowls every meal
 - Refresh water twice daily
-- Fish/vegetarian diet only
+- Fish/vegetarian low-fat diet only
 - Does not tolerate chicken or most other proteins
-
-### Main Meals
-
-Twice daily:
-- 140g Purina in morning
-- 140g Purina in evening
+- No treats/chews
 
 ---
 
@@ -103,23 +75,15 @@ Early warning signs:
 
 If this occurs:
 1. Fast for 10–12 hours
-2. Switch to GI diet tins + Prokolin (+/- Panacur)
+2. Switch to GI diet tins + Prokolin (+/- Panacur). The GI diet tins are 2 per day. Each tin is given over about 30 minutes so he eats a little at a time. 
 
-#### GI Diet
-
-- 2 cans/day
-- Split into 4 smaller meals
-
-#### Prokolin
-
+**Prokolin**
 - 5–6mL twice daily
-- Either:
-  - spread behind teeth using finger/pill method
-  - or place on food
+- Either: spread behind teeth using finger by opening jaw carefully (he will comply)/pill method or place on food
 
 Helpful guides:
-- [How to give your dog a pill (video)](https://www.youtube.com/watch?v=KV5tZ5oDc6o)
-- [PDSA written guide](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)
+[How to give your dog a pill (video)](https://www.youtube.com/watch?v=KV5tZ5oDc6o)
+[PDSA written guide](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)
 
 See also: [Troubleshooting](#troubleshooting)
 
