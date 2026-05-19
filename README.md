@@ -22,145 +22,137 @@ Cooper is a rescue from Dogs Trust. He was born around 2020 and was found as a s
 
 ## Daily Routine
 
-Morning:
+- Usually: 5x/week [park sessions](#Park-sessions), 2x/week [urban street walks](#Urban-street-walks)
+- If well exercised (mentally/physically) he will usually settle well generally speaking. 
+
 - Wakes around 7–8am (when we do)
 - Before walk: eager to play ball; may do 1–2 “find it” sessions indoors
+- **Morning walk / park session** (1–1.5 hrs) between 9:30–10:30am - aim for low traffic times
+- **Morning meal (~11am–12pm)** (See [Feeding](#Feeding)) - give in a bowl.
+- Rest of the day he sleeps through most of the afternoon
+- **Evening meal (~7pm–8pm)** (See [Feeding](#Feeding)) - can either give this in a bowl, or in a Kong wobbler, or with a small bit of training to start with using tricks (see below)
+- Energy burst (~9pm): Usually wants to play - please use the game “Find it” (ensure this is at least 1 hour after dinner)
+- **Night walk (~10pm–11pm)** - 30 mins, avoid traffic (doesn't like car lights or car noise at night), focus on letting him sniff and pee/poo etc. 
+- Sleep when you go to sleep (see [Sleep Routine](#sleep-routine))
 
-**Morning walk** (1–1.5 hrs) between 9:30–10:30am - aim for low traffic times
+---
 
-**Morning meal (~11am–12pm)**
-- Wait at least 20 minutes after the walk before feeding.
-- Pero low fat kibble (140g) + probiotics (x2) + psyllium fibre gel (mix 1 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
+### Feeding
 
-Day:
-- Rest/sleeps through most of the afternoon
+Cooper has a very sensitive stomach.
 
-Evening:
-**Evening meal (~7pm–8pm)**
-- Pero low fat kibble (140g) + psyllium fibre gel (mix 1 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
-- Can either give this in a bowl, or in a Kong wobbler, or with a small bit of training to start with using tricks (see below)
+**Normal feeding:**
+- Wait at least 20 minutes after a walk before feeding.
+- **Morning**: Pero low fat kibble (140g) + probiotics (x2) + psyllium fibre gel (mix 1 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
+- **Evening**: Pero low fat kibble (140g) + psyllium fibre gel (mix 1 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
 
-Energy burst (~9pm):
-Usually wants to play - please use the game “Find it” (ensure this is at least 1 hour after dinner)
-
-**Night walk (~10pm–11pm)**
-30 mins, avoid traffic (doesn't like car lights or car noise at night), focus on letting him sniff and pee/poo etc. 
+**If unwell:**
+- **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
+- Use the GI diet cans (2 cans/day). Feed these 2 meals of the day in 4 parts throughout the day.
+- - Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food.
 
 > ⚠️ **Important:**  
-> - Use a clean bowl for every meal!
+> - Use clean bowls every meal
 > - Refresh water twice daily
-
-- Usually: 5x/week park sessions, 2x/week urban street walks
-
----
-
-## Feeding
-
-Cooper has a sensitive stomach.
-
-Important:
-- Use clean bowls every meal
-- Refresh water twice daily
-- Fish/vegetarian low-fat diet only
-- Does not tolerate chicken or most other proteins
-- No treats/chews
-
----
-
-### If Unwell
-
-Early warning signs:
-- Mucus in poo
-- Loose stool
-
-If this occurs:
-1. Fast for 10–12 hours
-2. Switch to GI diet tins + Prokolin (+/- Panacur). The GI diet tins are 2 per day. Each tin is given over about 30 minutes so he eats a little at a time. 
-
-**Prokolin**
-- 5–6mL twice daily
-- Either: spread behind teeth using finger by opening jaw carefully (he will comply)/pill method or place on food
-
-Helpful guides:
-[How to give your dog a pill (video)](https://www.youtube.com/watch?v=KV5tZ5oDc6o)
-[PDSA written guide](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)
+> - Fish/vegetarian low-fat diet only
+> - Does not tolerate chicken or most other proteins
+> - No treats/chews
 
 See also: [Troubleshooting](#troubleshooting)
 
 ---
 
-## Toilet Routine
+### Toilet Routine
 
-- Fully house-trained
-- Toilets twice daily
-- Comfortable holding for 10–12 hours
-- Usually poos:
-  - 2–3x on morning walk
-  - 1x at night
+- Toilets 2x/day; can hold 10–12 hrs comfortably; fully house-trained
+- Typically poos 2-3x on morning walk, once at night
+- Signals urgent need by scratching or banging on the door (e.g. if unwell)
 
-If urgent/unwell:
-- scratches at door
-- bangs on door
 
 ---
 
-## Play
+### Play Routine
 
-### Important
-
-Cooper would chase a ball endlessly and does not naturally know when to stop.
-
-We intentionally avoid constant fetch sessions.
-
----
-
-### Favourite Indoor Game: “Find It”
-
-This is mentally exhausting and far better than repetitive fetch.
-
-Process:
-1. Ask him to:
-   - “Down”
-   - “Stay”
-2. Hide toy somewhere out of view
-3. Say:
-   - “Find it!”
-
-He then searches until he finds it.
+- Will chase a ball endlessly if chucked (and wouldn't know when to stop) - we therefore **don't** encourage non-stop throws.
+- He does not know how to 'tug'
+- At home, we have started a new style of play. If he brings a toy to play with, we may occasionally throw it to start with, which he then retrieves. However, rapidly we would move to a more exhausting / stimulating game which is to (1) Get him to go 'down' in a spot, and say 'stay' (2) You then slowly move away with the toy in question and hide it somewhere out of view (3) You then say 'find it!' and he goes to search for it until he finds it. This is far better than just throwing/retrieving for the same period of time, and wears him out. - Often say 'all done, game over' whilst doing the motion, once we want to stop - Does not know how to tug
+- See also [Guide to the outdoors](#guide-to-the-outdoors)
 
 ---
 
-### Ending Play
+### Sleep Routine
 
-Use:
-- “All done”
-- “Game over”
-
-while wiping hands together.
+- Sleeps on the floor next to our bed; ideally in the same room as you
+- Allowed on the bed but rarely uses it; also ignores his dog bed
+- N.B. Keep door open in the room he’s in at all times.
 
 ---
 
-### Tug
+# ⚠️ Challenges
 
-He does not really understand tug games.
+### Car Herding / Chasing
+Wants to chase or herd cars when outside. We are trying to overcome this by the following: 
+- Walking him when there's low traffic and on streets with low volume traffic only
+- Starting to say 'leave it' firmly if he is fixating on a car
+- Sometimes it helps to stop and wait for the traffic to pass, then re-focussing on you by saying 'look at me'. Pulling on lead
+- If pulls we do an instant 180 degrees, walk a variable distance back and then do another 180 back to where we were going. He's slowly learning but work in progress. 
+- Will pull a lot with traffic and when he thinks he's about to play (e.g., entering the park)
+
+### Pulling on Lead
+- If pulls we do an instant 180 degrees, walk a variable distance back and then do another 180 back to where we were going. He's slowly learning but work in progress. In future we will try teaching a heel or using a halti. Will pull a lot with traffic and when he thinks he's about to play (e.g., entering the park)
+
+### Interactions With Dogs
+- He tolerates dogs more than enjoys them.
+- Do NOT let him meet another dog whilst on lead - risk of other dog escalating things.
+- **We use a three second rule with dogs**. He can sniff for 3s then we say "Cooper come" (the recall phrase) whilst being prepared to tug towards us on the lead to remove him from that situation.
+- Often prefers engaging with humans/ball instead
+- Large dogs can intimidate him
+
+---
+# ⚠️ Health Challenges
+
+Cooper often has a few recurrent problems. 
+
+(1) **Recurrent mucus in poo** 
+- This can happen every 3-4 weeks.
+- (See [Feeding](#Feeding)) for management.
+
+(2) **His nails are quite brittle**. 
+If there is a nail break:
+- Cone on head (he is very compliant to put his head into the cone, do so with a treat)
+- Keep the paw clean with a dunk into a cup full of 10mL hibiwash + 90mL water (room temp). He is very compliant with this, support it by giving reassurance/occasional kibbles.
+
 
 ---
 
-## Sleep
+# 🌳 Outdoors Guide
 
-- Sleeps on floor beside bed
-- Ideally in same room as people
-- Allowed on bed but rarely uses it
-- Usually ignores dog bed
+### Urban street walks
 
-Important:
-- Keep door open wherever he sleeps
+Main focus:
+- loose lead walking
+- calm behaviour
+- Avoiding [challenges](#Challenges)
+
+---
+
+### Park Sessions
+
+- Avoid unless we have given instruction
+- In the park, we use the green harness, to which we attach the 5 metre lead (unless he knows you well)
+- He has reasonably good recall, especially if you are holding the ball in the launcher. The command is a sharp and firm 'Cooper come!'.
+
+**Playing style:** 
+- His fetch is nearly 100% perfect.
+- We nearly always get him to do 'touch' (say 'touch!' + holding our open palm out at thigh level) -> he will run to touch the palm from afar -> we throw the ball to reward him
+- We also do 'middle' (say 'middle' + stand with legs apart -> he returns and runs through the middle of your legs -> we throw the ball
+- We don't do non-stop fetching. We may do four of the above, then say 'go sniff' or 'go walk' so he has a break from exercise and just goes to explore the environment/go to the toilet. He will keep looking back and we repeat 'go walk' until we feel it's time to start playing again (maybe 5 minutes later).
+- He needs water in a bowl during longer play sessions.
+- See also [Interactions With Dogs](#Interactions-With-Dogs)
 
 ---
 
 # 🎓 Training & Skills
-
-## Known Commands
 
 | Skill | Command / cue |
 |---|---|
@@ -180,213 +172,33 @@ Important:
 | Round | “Round” |
 | Spin clockwise | “Spin!” |
 | Come by | “Come by” |
-
----
-
-## Skills We Are Teaching
-
-| Skill | Notes |
-|---|---|
 | Go to room | Kitchen / study / bathroom / crate |
-| Counter-clockwise spin | “Spin clock” |
-| Back round | Anti-clockwise loop behind handler |
+| Counter-clockwise spin (in progress) | “Spin clock” |
+| Back round (in progress) | Anti-clockwise loop behind handler |
 
 ---
 
-# ⚠️ Challenges
-
-## Indoors
-
-Main issue:
-- persistent desire to play
-
-If properly exercised:
-- settles well
-- sleeps calmly
-
-“Find it” is the best mental exercise.
-
----
-
-## Outdoors
-
-### Car Herding / Chasing
-
-Can fixate on:
-- moving cars
-- traffic
-
-Management strategies:
-- low traffic routes
-- quieter times
-- “Leave it”
-- stop and let traffic pass
-- redirect with:
-  - “Look at me”
-
----
-
-### Pulling on Lead
-
-Current method:
-- immediate 180° turn when pulling
-- variable distance before returning
-
-Triggers:
-- traffic
-- excitement
-- approaching park/play
-
-Future options:
-- heel training
-- Halti
-
----
-
-# 🌳 Outdoors Guide
-
-## Residential Walks
-
-Main focus:
-- loose lead walking
-- calm behaviour
-
----
-
-## Green Areas
-
-Much easier environment for him.
-
-Usually:
-- green harness
-- yellow 5m lead
-
-Recall is generally very good.
-
-Recall cue:
-- “Cooper, come!”
-
----
-
-## Interactions With Dogs
-
-Important:
-- He tolerates dogs more than enjoys them
-- Often prefers engaging with humans/ball instead
-- Large dogs can intimidate him
-
-### Three-Second Rule
-
-Allow:
-- brief sniffing
-
-Then:
-- recall with “Cooper, come!”
-- guide away if needed
-
----
-
-## Playing in the Park
-
-### Preferred Games
-
-Usually:
-1. “Touch!”
-2. Reward with ball throw
-
-or
-
-1. “Middle”
-2. Reward with ball throw
-
----
-
-### Important Rules
-
-Avoid:
-- endless fetch
-
-Instead:
-- short bursts
-- followed by:
-  - “Go sniff”
-  - “Go walk”
-
-This helps regulate arousal.
-
-Water should always be available during longer sessions.
-
----
-
-# 🩺 Behaviour & Medical
-
-## Commands & Boundaries
-
-### Preferred Training Style
-
-We strongly prefer positive reinforcement methods.
-
-Helpful resource:
-- [Positive reinforcement training](https://www.humanesociety.org/resources/positive-reinforcement-training)
-
----
-
-### Negative Commands
-
-| Situation | Command |
-|---|---|
-| Mild correction | “Uh-uh” |
-| Serious correction | “NO.” |
-| Get off furniture/object | “Get off” |
-| Jumping on people | “Off” |
-
----
-
-## Banned Behaviours
-
-### Food Stealing
-
-If food drops:
-- he must wait
-- make eye contact first
-
-Release cue:
-- “Yes, get it!”
-
----
-
-## Troubleshooting
-
-| Problem | Likely response |
-|---|---|
-| Incessant play requests | “All done, game over” |
-| Refusing food | Consider illness → switch to GI diet |
-
----
-
-## Vet Information
-
-### Standard Vet
-
-Goddard Veterinary Group Putney  
-153 Lower Richmond Rd  
-London SW15 1EZ  
-020 8788 8224
-
----
-
-### Emergency / Out-of-Hours Vet
-
-Stone Lion Veterinary Centre  
-Wimbledon
-
----
-
-### Transport Options
-
-- Uber Pet
-- Steve:
-  - 07961952379
-  - 07940360936
-
-(We will reimburse any emergency transport costs.)
+# 🩺 Behaviour
+
+Negative commands: Note: we generally use [positive reinforcement](https://www.humanesociety.org/resources/positive-reinforcement-training) approaches. We would try our very best not to resort to using the following negative commands, as much as possible, especially with this sensitive dog. 
+- A gentle 'no' to discourage a bad behaviour
+- **"uh-uh"** - A firm 'no' if he does something seriously bad 
+- **"NO."** in a sharp and assertive manner.
+- **"Get off"** if somewhere he should not be.
+- **"Off"** if he jumps on people and you don't want it or is trying to climb on you while you eat.
+
+Not allowed to... 
+- **Steal food.** If food dropped whilst preparing in kitchen, has to look at you and only proceed to eating if you say: 'yes get it, good boy'.
+
+### Troubleshooting: 
+| Behaviour | Likely cause + likely action to take | 
+| -------------------------------------- | ------------------------------------------------------------ | 
+| Incessant play | 'All done, game over' whilst wiping hands together| 
+| Not eating meal | Could be unwell - feed bland diet - see - See also [If unwell](#if-unwell)| 
+
+--- 
+
+### Vet 
+- During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224)
+- Out of hours, the 24 hr vet is Stone Lion in Wimbledon
+- To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
