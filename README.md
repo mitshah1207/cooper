@@ -200,7 +200,7 @@ Not allowed to...
 
 --- 
 
-# 🩺 Vet:
+# 🩺 Vet
 - During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224) - can go to any Goddard branch
 - Out of hours, the 24 hr vet is Stone Lion in Wimbledon
 - To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
