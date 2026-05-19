@@ -195,6 +195,7 @@ Not allowed to...
 | -------------------------------------- | ------------------------------------------------------------ | 
 | Incessant play | 'All done, game over' whilst wiping hands together| 
 | Not eating meal | Could be unwell - feed bland diet - see - See also [If unwell](#if-unwell)| 
+| Scratching or banging on the door | Needs to urgently poo| 
 
 --- 
 
