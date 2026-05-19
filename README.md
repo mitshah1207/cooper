@@ -142,7 +142,7 @@ Main focus:
 - In the park, we use the green harness, to which we attach the 5 metre lead (unless he knows you well)
 - He has reasonably good recall, especially if you are holding the ball in the launcher. The command is a sharp and firm 'Cooper come!'.
 
-**Playing style:** 
+*Playing style:*
 - His fetch is nearly 100% perfect.
 - We nearly always get him to do 'touch' (say 'touch!' + holding our open palm out at thigh level) -> he will run to touch the palm from afar -> we throw the ball to reward him
 - We also do 'middle' (say 'middle' + stand with legs apart -> he returns and runs through the middle of your legs -> we throw the ball
@@ -193,11 +193,12 @@ Not allowed to...
 ---
 
 # Troubleshooting: 
-| Behaviour | Likely cause + likely action to take | 
-| -------------------------------------- | ------------------------------------------------------------ | 
-| Incessant play | 'All done, game over' whilst wiping hands together | 
-| Not eating meal | Could be unwell - feed bland diet - see - See also [If unwell](#if-unwell) | 
-| Scratching or banging on the door | Needs to urgently poo | 
+
+| Behaviour | Likely cause + likely action to take |
+|----------|--------------------------------------|
+| Incessant play | 'All done, game over' whilst wiping hands together |
+| Not eating meal | Could be unwell - feed bland diet - see [If unwell](#if-unwell) |
+| Scratching or banging on the door | Needs to urgently poo |
 
 --- 
 
