@@ -22,15 +22,15 @@ Cooper is a rescue from Dogs Trust. He was born around 2020 and was found as a s
 
 ## Daily Routine
 
-- Usually: 5x/week [park sessions](#Park-sessions), 2x/week [urban street walks](#Urban-street-walks)
+- Usually: 5x/week [park sessions](#park-sessions), 2x/week [urban street walks](#urban-street-walks)
 - If well exercised (mentally/physically) he will usually settle well generally speaking. 
 
 - Wakes around 7–8am (when we do)
 - Before walk: eager to play ball; may do 1–2 “find it” sessions indoors
 - **Morning walk / park session** (1–1.5 hrs) between 9:30–10:30am - aim for low traffic times
-- **Morning meal (~11am–12pm)** (See [Feeding](#Feeding)) - give in a bowl.
+- **Morning meal (~11am–12pm)** (See [Feeding](#feeding)) - give in a bowl.
 - Rest of the day he sleeps through most of the afternoon
-- **Evening meal (~7pm–8pm)** (See [Feeding](#Feeding)) - can either give this in a bowl, or in a Kong wobbler, or with a small bit of training to start with using tricks (see below)
+- **Evening meal (~7pm–8pm)** (See [Feeding](#feeding)) - can either give this in a bowl, or in a Kong wobbler, or with a small bit of training to start with using tricks (see below)
 - Energy burst (~9pm): Usually wants to play - please use the game “Find it” (ensure this is at least 1 hour after dinner)
 - **Night walk (~10pm–11pm)** - 30 mins, avoid traffic (doesn't like car lights or car noise at night), focus on letting him sniff and pee/poo etc. 
 - Sleep when you go to sleep (see [Sleep Routine](#sleep-routine))
@@ -115,7 +115,7 @@ Cooper often has a few recurrent problems.
 
 (1) **Recurrent mucus in poo** 
 - This can happen every 3-4 weeks.
-- (See [Feeding](#Feeding)) for management.
+- (See [Feeding](#feeding)) for management.
 
 (2) **His nails are quite brittle**. 
 If there is a nail break:
@@ -132,7 +132,7 @@ If there is a nail break:
 Main focus:
 - loose lead walking
 - calm behaviour
-- Avoiding [challenges](#Challenges)
+- Avoiding [challenges](#challenges)
 
 ---
 
@@ -148,7 +148,7 @@ Main focus:
 - We also do 'middle' (say 'middle' + stand with legs apart -> he returns and runs through the middle of your legs -> we throw the ball
 - We don't do non-stop fetching. We may do four of the above, then say 'go sniff' or 'go walk' so he has a break from exercise and just goes to explore the environment/go to the toilet. He will keep looking back and we repeat 'go walk' until we feel it's time to start playing again (maybe 5 minutes later).
 - He needs water in a bowl during longer play sessions.
-- See also [Interactions With Dogs](#Interactions-With-Dogs)
+- See also [Interactions With Dogs](#interactions-with-dogs)
 
 ---
 
@@ -178,7 +178,7 @@ Main focus:
 
 ---
 
-# 🩺 Behaviour
+# Behaviour
 
 Negative commands: Note: we generally use [positive reinforcement](https://www.humanesociety.org/resources/positive-reinforcement-training) approaches. We would try our very best not to resort to using the following negative commands, as much as possible, especially with this sensitive dog. 
 - A gentle 'no' to discourage a bad behaviour
@@ -193,13 +193,13 @@ Not allowed to...
 ### Troubleshooting: 
 | Behaviour | Likely cause + likely action to take | 
 | -------------------------------------- | ------------------------------------------------------------ | 
-| Incessant play | 'All done, game over' whilst wiping hands together| 
-| Not eating meal | Could be unwell - feed bland diet - see - See also [If unwell](#if-unwell)| 
-| Scratching or banging on the door | Needs to urgently poo| 
+| Incessant play | 'All done, game over' whilst wiping hands together | 
+| Not eating meal | Could be unwell - feed bland diet - see - See also [If unwell](#if-unwell) | 
+| Scratching or banging on the door | Needs to urgently poo | 
 
 --- 
 
-### Vet 
+# 🩺 Vet 
 - During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224)
 - Out of hours, the 24 hr vet is Stone Lion in Wimbledon
 - To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
