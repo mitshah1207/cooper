@@ -1,4 +1,4 @@
-# Cooper Care Guide
+# Cooper Care Guide 🐶
 
 A guide to Cooper’s routine, behaviour, training, feeding, and medical care.
 
@@ -12,7 +12,7 @@ A guide to Cooper’s routine, behaviour, training, feeding, and medical care.
 
 ---
 
-# 🐶 General Information
+# General Information 
 
 ## Introduction
 
@@ -88,7 +88,7 @@ See also: [Troubleshooting](#troubleshooting)
 
 ---
 
-# ⚠️ Challenges
+# Challenges
 
 ### Car Herding / Chasing
 Wants to chase or herd cars when outside. We are trying to overcome this by the following: 
@@ -109,7 +109,7 @@ Wants to chase or herd cars when outside. We are trying to overcome this by the 
 - Large dogs can intimidate him
 
 ---
-# ⚠️ Health Challenges
+# Health Challenges
 
 Cooper often has a few recurrent problems. 
 
@@ -125,7 +125,7 @@ If there is a nail break:
 
 ---
 
-# 🌳 Outdoors Guide
+# Outdoors Guide
 
 ### Urban street walks
 
@@ -152,7 +152,7 @@ Main focus:
 
 ---
 
-# 🎓 Training & Skills
+# Training & Skills
 
 | Skill | Command / cue |
 |---|---|
@@ -190,7 +190,9 @@ Negative commands: Note: we generally use [positive reinforcement](https://www.h
 Not allowed to... 
 - **Steal food.** If food dropped whilst preparing in kitchen, has to look at you and only proceed to eating if you say: 'yes get it, good boy'.
 
-### Troubleshooting: 
+---
+
+# Troubleshooting: 
 | Behaviour | Likely cause + likely action to take | 
 | -------------------------------------- | ------------------------------------------------------------ | 
 | Incessant play | 'All done, game over' whilst wiping hands together | 
@@ -199,7 +201,7 @@ Not allowed to...
 
 --- 
 
-# 🩺 Vet 
-- During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224)
+# 🩺 Vet:
+- During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224) - can go to any Goddard branch
 - Out of hours, the 24 hr vet is Stone Lion in Wimbledon
 - To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
