@@ -14,13 +14,11 @@ A guide to Cooper’s routine, behaviour, training, feeding, and medical care.
 
 # General Information 
 
-## Introduction
-
 Cooper is a rescue from Dogs Trust. He was born around 2020 and was found as a stray in Ireland. We adopted him in September 2023. He is a typical border collie who needs both mental and physical stimulation. He is extremely affectionate, loving, playful, and very good with other dogs (typically submissive with them). He is also an exceptionally quick learner.
 
 ---
 
-## Daily Routine
+# Daily Routine
 
 - Usually: 5x/week [park sessions](#park-sessions), 2x/week [urban street walks](#urban-street-walks)
 - If well exercised (mentally/physically) he will usually settle well generally speaking. 
