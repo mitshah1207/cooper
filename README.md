@@ -199,7 +199,7 @@ Not allowed to...
 | Behaviour | Likely cause + likely action to take |
 |----------|--------------------------------------|
 | Incessant play | 'All done, game over' whilst wiping hands together |
-| Not eating meal | Could be unwell - feed bland diet - see [If unwell](#if-unwell) |
+| Not eating meal | Could be unwell - feed bland diet - see [If unwell](#feeding) |
 | Scratching or banging on the door | Needs to urgently poo |
 
 --- 
