@@ -31,7 +31,7 @@ Cooper is a rescue from Dogs Trust. He was born around 2020 and was found as a s
 - **Evening meal (~7pm–8pm)** (See [Feeding](#feeding)) - can either give this in a bowl, or in a Kong wobbler, or with a small bit of training to start with using tricks (see below)
 - Energy burst (~9pm): Usually wants to play - please use the game “Find it” (ensure this is at least 1 hour after dinner)
 - **Night walk (~10pm–11pm)** - 30 mins, avoid traffic (doesn't like car lights or car noise at night), focus on letting him sniff and pee/poo etc. 
-- Sleep when you go to sleep (see [Sleep Routine](#sleep-routine))
+- Sleep when you go to sleep ([Sleep Routine](#sleep-routine))
 
 ---
 
@@ -42,12 +42,14 @@ Cooper has a very sensitive stomach.
 **Normal feeding:**
 - Wait at least 20 minutes after a walk before feeding.
 - **Morning**: Pero low fat kibble (140g) + probiotics (x2) + psyllium fibre gel (mix 1 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
-- **Evening**: Pero low fat kibble (140g) + psyllium fibre gel (mix 1 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
+- **Evening**: Pero low fat kibble (140g) + psyllium fibre gel (mix 0.5 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
 
 **If unwell:**
 - **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
 - Use the GI diet cans (2 cans/day). Feed these 2 meals of the day in 4 parts throughout the day.
 - - Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food.
+- As soon as the poo becomes more formed and there is NO obvious mucus - give half a GI tin and half usual kibble, and maintain the prokolin.
+- Once fully normal, then feed 100 per cent usual food. 
 
 > ⚠️ **Important:**  
 > - Use clean bowls every meal
@@ -65,7 +67,6 @@ See also: [Troubleshooting](#troubleshooting)
 - Toilets 2x/day; can hold 10–12 hrs comfortably; fully house-trained
 - Typically poos 2-3x on morning walk, once at night
 - Signals urgent need by scratching or banging on the door (e.g. if unwell)
-
 
 ---
 
@@ -107,19 +108,20 @@ Wants to chase or herd cars when outside. We are trying to overcome this by the 
 - Large dogs can intimidate him
 
 ---
+
 # Health Challenges
 
 Cooper often has a few recurrent problems. 
 
 (1) **Recurrent mucus in poo** 
-- This can happen every 3-4 weeks.
+- This can happen every 3-4 weeks. This usually resolves within 48hours.
 - (See [Feeding](#feeding)) for management.
 
 (2) **His nails are quite brittle**. 
 If there is a nail break:
 - Cone on head (he is very compliant to put his head into the cone, do so with a treat)
-- Keep the paw clean with a dunk into a cup full of 10mL hibiwash + 90mL water (room temp). He is very compliant with this, support it by giving reassurance/occasional kibbles.
-
+- Keep the paw clean with a dunk into a cup full of 10mL hibiwash + 90mL water (room temp) after each walk. He is very compliant with this, support it by giving reassurance/occasional kibbles. Hold in the solution for 5 minutes, then place the cone on because he will otherwise lick the area.
+- No running until healed, on-leash walks only avoiding mud/grass ideally wearing a boot (put paw into bag first then into boot)
 
 ---
 
@@ -200,7 +202,7 @@ Not allowed to...
 
 --- 
 
-# 🩺 Vet
+# Vet 🩺
 - During working hours it is: Goddard Veterinary Group Putney, 153 Lower Richmond Rd, London SW15 1EZ (020 8788 8224) - can go to any Goddard branch
 - Out of hours, the 24 hr vet is Stone Lion in Wimbledon
 - To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
