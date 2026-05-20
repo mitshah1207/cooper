@@ -48,7 +48,8 @@ Cooper has a very sensitive stomach.
 - **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
 - Use the GI diet cans (2 cans/day). Feed these 2 meals of the day in 4 parts throughout the day.
 - Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food.
-- He may scratch the door to signal he needs to urgently go out to poo - take him out instantly. 
+- He may scratch the door to signal he needs to urgently go out to poo - take him out instantly.
+- Restrict activity to on-lead walks only (no running around) or very minimal running.
 - As soon as the poo becomes more formed and there is NO obvious mucus - give half a GI tin and half usual kibble, and maintain the prokolin.
 - Once fully normal poo, then feed 100 per cent usual food. 
 
