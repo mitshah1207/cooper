@@ -45,8 +45,8 @@ Cooper has a very sensitive stomach.
 - **Evening**: Pero low fat kibble (140g) + psyllium fibre gel (mix 0.5 teaspoon with 4 tbsp water, wait a few mins to form a gel then place on top of kibble)
 
 **If unwell:**
-- **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed bland diet (the GI diet tin) + prokolin (+/- panacur)
-- Use the GI diet cans (2 cans/day). Feed these 2 meals of the day in 4 parts throughout the day.
+- **The first signs of mucus in his poo or loose poo** needs him to starve for 10-12 hours subsequently, then be fed prokolin (+/- panacur) and either bland diet (the GI diet tin) or usual food - speak to us.
+- If you use the GI diet cans (total 2 cans/day), feed these 2 meals of the day in 4 parts throughout the day.
 - Also, give 5-6mL Prokolin twice per day. This is best done with the pill method ([how to video](https://www.youtube.com/watch?v=KV5tZ5oDc6o) and alternatively a [description](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-give-your-dog-a-pill)) by 'scraping' most of the paste behind his teeth, he then realises he likes the taste and will lick the rest from your fingers, or if feeding just put it on top of the food.
 - He may scratch the door to signal he needs to urgently go out to poo - take him out instantly.
 - Restrict activity to on-lead walks only (no running around) or very minimal running.
@@ -90,6 +90,12 @@ See also: [Troubleshooting](#troubleshooting)
 ---
 
 # Challenges
+
+### Summer / heatwave
+- Doesn't tolerate the sun or heat well. Doesn't need as much exercise in the summer and we be careful not to over do it with him.
+- We take him out early and very late if temperatures are high and tend to ensure he sticks to the shade when he is out. We keep running around to only a small amount and scale back on fetch / high activity, the main thing is for him to get through without overheating (he has a double coat of fur) and getting an upset stomach (which happens in the heat and high activity).
+- Temperatures below 20 celsius tend to be safest for him to be out in
+- Cooling measures at home that work - the cooling mat, putting cold water on his skin, using fans at home
 
 ### Car Herding / Chasing
 Wants to chase or herd cars when outside. We are trying to overcome this by the following: 
