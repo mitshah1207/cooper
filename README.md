@@ -95,6 +95,7 @@ See also: [Troubleshooting](#troubleshooting)
 - Doesn't tolerate the sun or heat well. Doesn't need as much exercise in the summer and we be careful not to over do it with him.
 - We take him out early and very late if temperatures are high and tend to ensure he sticks to the shade when he is out. We keep running around to only a small amount and scale back on fetch / high activity, the main thing is for him to get through without overheating (he has a double coat of fur) and getting an upset stomach (which happens in the heat and high activity).
 - Temperatures below 20 celsius tend to be safest for him to be out in
+- Keeping him on the long yellow lead allows for a bit of freedom but also handily restricts his activity.
 - Cooling measures at home that work - the cooling mat, putting cold water on his skin, using fans at home
 
 ### Car Herding / Chasing
